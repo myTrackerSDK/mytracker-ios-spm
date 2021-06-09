@@ -32,7 +32,7 @@ myTracker — free mobile analytics for iOS and Android platforms. Get connected
    ```ruby
    pod 'myTrackerSDK'
    ```
-  Run `pod install`.
+  Run `pod install`
 
 Integration instructions are available on our [website](https://tracker.my.com/docs/).
 
