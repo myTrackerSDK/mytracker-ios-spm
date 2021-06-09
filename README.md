@@ -17,6 +17,22 @@ myTracker — free mobile analytics for iOS, Android and Windows  platforms. Get
    * Use menu to open Swift Package Manager
       * File -> Swift Packages -> Add Package Dependency...
    * Use the repository URL to add MyTrackerSDK as a dependency with a required version
+   * Also you have to add dependencies manually:
+     * AdSupport
+     * SystemConfiguration
+     * CoreTelephony 
+     * CoreData 
+     * UIKit 
+     * iAd 
+     * StoreKit 
+     * CoreMotion
+- **[CocoaPods](https://cocoapods.org/pods/myTrackerSDK)**
+
+  Add the following line to your Podfile:
+   ```ruby
+   pod 'myTrackerSDK'
+   ```
+  Run `pod install`.
 
 Integration instructions are available on our [website](https://tracker.my.com/docs/).
 
