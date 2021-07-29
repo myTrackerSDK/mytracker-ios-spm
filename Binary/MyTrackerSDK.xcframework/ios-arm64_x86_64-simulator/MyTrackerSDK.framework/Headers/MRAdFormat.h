@@ -1,6 +1,6 @@
 //
 //  MRAdFormat.h
-//  myTrackerSDK 3.0.1
+//  myTrackerSDK 3.0.2
 //
 
 #import <Foundation/Foundation.h>

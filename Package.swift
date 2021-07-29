@@ -12,10 +12,26 @@ let package = Package(
 	[
 		.library(
 			name: "MyTrackerSDK",
-			targets: ["MyTrackerSDK"]),
+			targets: ["MyTrackerSDKLib"]),
 	],
 	targets:
 	[
+		.target(name: "MyTrackerSDKLib",
+				dependencies: ["MyTrackerSDK"],
+				path: "MyTrackerPackageWrapper",
+				linkerSettings: [
+					.linkedLibrary("z"),
+					.linkedFramework("AdServices"),
+					.linkedFramework("UIKit"),
+					.linkedFramework("SystemConfiguration"),
+					.linkedFramework("CoreData"),
+					.linkedFramework("iAd"),
+					.linkedFramework("CoreTelephony"),
+					.linkedFramework("StoreKit"),
+					.linkedFramework("CoreMotion"),
+					.linkedFramework("AdSupport")
+				]
+		),
 		.binaryTarget(name: "MyTrackerSDK",
 					  path: "Binary/MyTrackerSDK.xcframework"),
 	]
