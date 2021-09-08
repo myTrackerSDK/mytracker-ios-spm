@@ -1,6 +1,6 @@
 //
 //  MRFinal.h
-//  myTrackerSDK 3.0.2
+//  myTrackerSDK 3.0.3
 //
 
 #ifndef MRFinal_h
