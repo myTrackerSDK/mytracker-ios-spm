@@ -21,7 +21,6 @@ let package = Package(
 				path: "MyTrackerPackageWrapper",
 				linkerSettings: [
 					.linkedLibrary("z"),
-					.linkedFramework("AdServices"),
 					.linkedFramework("UIKit"),
 					.linkedFramework("SystemConfiguration"),
 					.linkedFramework("CoreData"),

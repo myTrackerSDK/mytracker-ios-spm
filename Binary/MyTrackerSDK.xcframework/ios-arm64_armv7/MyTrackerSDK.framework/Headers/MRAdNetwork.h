@@ -1,6 +1,6 @@
 //
 //  MRAdNetwork.h
-//  myTrackerSDK 3.0.3
+//  myTrackerSDK 3.0.4
 //
 
 #import <Foundation/Foundation.h>

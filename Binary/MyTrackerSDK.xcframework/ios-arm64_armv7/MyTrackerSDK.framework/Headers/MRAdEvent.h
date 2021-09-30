@@ -1,6 +1,6 @@
 //
 //  MRAdEvent.h
-//  myTrackerSDK 3.0.3
+//  myTrackerSDK 3.0.4
 //
 
 #import <MyTrackerSDK/MRAdNetwork.h>
