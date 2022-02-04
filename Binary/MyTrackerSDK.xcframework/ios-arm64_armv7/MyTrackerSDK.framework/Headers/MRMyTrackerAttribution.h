@@ -1,6 +1,6 @@
 //
 //  MRMyTrackerAttribution.h
-//  myTrackerSDK 3.0.5
+//  myTrackerSDK 3.0.6
 //
 
 #import <Foundation/Foundation.h>
@@ -16,7 +16,7 @@ NS_ASSUME_NONNULL_BEGIN
  
  @param attribution MRMyTrackerAttribution instance with deeplink.
  */
-- (void)didReceiveAttribution:(MRMyTrackerAttribution *)attribution;
+- (void)didReceiveAttribution:(MRMyTrackerAttribution *)attribution NS_SWIFT_NAME(didReceive(attribution:));
 
 @end
 
@@ -25,9 +25,9 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  Contains deeplink as NSString. 
  */
-@property(nonatomic, readonly, copy, nullable) NSString *deeplink;
+@property(nonatomic, readonly, copy, nullable) NSString *deeplink NS_SWIFT_NAME(deeplink);
 
-+ (instancetype)attributionWithDeeplink:(NSString *)deeplink;
++ (instancetype)attributionWithDeeplink:(NSString *)deeplink NS_SWIFT_NAME(attribution(deeplink:));
 
 - (instancetype)init NS_UNAVAILABLE;
 

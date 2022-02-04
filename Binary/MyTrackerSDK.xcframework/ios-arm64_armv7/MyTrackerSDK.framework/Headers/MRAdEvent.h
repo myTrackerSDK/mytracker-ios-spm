@@ -1,6 +1,6 @@
 //
 //  MRAdEvent.h
-//  myTrackerSDK 3.0.5
+//  myTrackerSDK 3.0.6
 //
 
 #import <MyTrackerSDK/MRAdNetwork.h>
@@ -19,37 +19,37 @@ MR_FINAL
 /**
  @discussion Stores advertising network
 */
-@property (nonatomic, readonly) MRAdNetwork network;
+@property (nonatomic, readonly) MRAdNetwork network NS_SWIFT_NAME(network);
 
 /**
  @discussion Stores revenue
  */
-@property (nonatomic, readonly) double revenue;
+@property (nonatomic, readonly) double revenue NS_SWIFT_NAME(revenue);
 
 /**
  @discussion Stores currency code  in ISO 4217 format
  */
-@property (nullable, nonatomic, readonly) NSString *currency;
+@property (nullable, nonatomic, readonly) NSString *currency NS_SWIFT_NAME(currency);
 
 /**
  @discussion Stores initial source
  */
-@property (nullable, nonatomic, readonly) NSString *source;
+@property (nullable, nonatomic, readonly) NSString *source NS_SWIFT_NAME(source);
 
 /**
  @discussion Stores placement identifier
  */
-@property (nullable, nonatomic, readonly) NSString *placementId;
+@property (nullable, nonatomic, readonly) NSString *placementId NS_SWIFT_NAME(placementId);
 
 /**
  @discussion Stores advertising identifier
  */
-@property (nullable, nonatomic, readonly) NSString *adId;
+@property (nullable, nonatomic, readonly) NSString *adId NS_SWIFT_NAME(adId);
 
 /**
  @discussion Stores advertising format
  */
-@property (nullable, nonatomic, readonly) NSString *format;
+@property (nullable, nonatomic, readonly) NSString *format NS_SWIFT_NAME(format);
 
 @end
 

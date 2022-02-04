@@ -1,6 +1,6 @@
 //
 //  MRMyTrackerEvent.h
-//  myTrackerSDK 3.0.5
+//  myTrackerSDK 3.0.6
 //
 
 #import <Foundation/Foundation.h>
@@ -9,7 +9,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface MRMyTrackerEvent : NSObject
 
-@property (nonatomic, readonly) int type;
+@property (nonatomic, readonly) int type NS_SWIFT_NAME(type);
 
 @end
 

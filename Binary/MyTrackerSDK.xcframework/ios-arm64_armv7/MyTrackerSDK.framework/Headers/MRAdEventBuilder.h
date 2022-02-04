@@ -1,6 +1,6 @@
 //
 //  MREventBuilder.h
-//  myTrackerSDK 3.0.5
+//  myTrackerSDK 3.0.6
 //
 
 #import <Foundation/Foundation.h>
@@ -85,7 +85,7 @@ MR_FINAL
  
 @return MRAdEvent instance
 */
-- (MRAdEvent *)build;
+- (MRAdEvent *)build NS_SWIFT_NAME(build());
 
 @end
 

@@ -6,19 +6,27 @@
 	<dict>
 		<key>Headers/MRAdEvent.h</key>
 		<data>
-		EJj/wf3V+WA5jEwdkT7xKQDa6Oo=
+		mSj/PdL9hzmAtc7Kp6+V8PDLOiA=
 		</data>
 		<key>Headers/MRAdEventBuilder.h</key>
 		<data>
-		6hB//U/buQiDzXCOoe6QVl0AXr4=
+		Ih6VFY0UeaBrID2LHcAS5q21nf8=
 		</data>
 		<key>Headers/MRAdFormat.h</key>
 		<data>
-		AUwTg8TlhNAiz5wsD0Sv34uFYwY=
+		nM+trYeG3RPppJJlXVLID1bHbiI=
 		</data>
 		<key>Headers/MRAdNetwork.h</key>
 		<data>
 		Gxe2cj798G8iPK+tOgE8JU8TGgA=
+		</data>
+		<key>Headers/MRAntiFraudConfig.h</key>
+		<data>
+		YmiHftHVMmE1CR/kUQWCIaO4lvM=
+		</data>
+		<key>Headers/MRAntiFraudConfigBuilder.h</key>
+		<data>
+		Z/vwlDAsZr6HTmi7KISkSSmVqL8=
 		</data>
 		<key>Headers/MRFinal.h</key>
 		<data>
@@ -34,7 +42,7 @@
 		</data>
 		<key>Headers/MRMiniAppEvent.h</key>
 		<data>
-		eTqC4hXU1tViBsbC7w5Wk8TW1oo=
+		Whrb2g6WcWsS67cmT7THpyblU+c=
 		</data>
 		<key>Headers/MRMiniAppEventBuilder.h</key>
 		<data>
@@ -54,43 +62,43 @@
 		</data>
 		<key>Headers/MRMyTracker.h</key>
 		<data>
-		Z50MQimO7LWWwQWs9jmgYylsMnA=
+		EODvGv7g/dMEcmmk9Pv9o5cDSXc=
 		</data>
 		<key>Headers/MRMyTrackerAttribution.h</key>
 		<data>
-		PrSMrq9GQUzyWsadgym5Cmk1GY0=
+		m2zphODJcUuzPbGB60uHseSWlXE=
 		</data>
 		<key>Headers/MRMyTrackerConfig.h</key>
 		<data>
-		5o+i5s6E0z3ILGChDyIuaSJK1GE=
+		hn4TRf7zdM0tiKsRSYvTKZnIvJg=
 		</data>
 		<key>Headers/MRMyTrackerEvent.h</key>
 		<data>
-		okGPwBiVLESfUW7R0O4P7cvjDJo=
+		nigW2EdjpjALGbnRk/Z1HqCOQGE=
 		</data>
 		<key>Headers/MRMyTrackerParams.h</key>
 		<data>
-		IW78CUZl3afc2Von7eSEZ8LBBGc=
+		/ug0Rlz7sSfZEAwP7YHx8iBgJvI=
 		</data>
 		<key>Headers/MROffer.h</key>
 		<data>
-		D5j5TnBkP+UxAsn3YPWclrO3woU=
+		vYvkkK04dwNKTyjVSyP6KGIcM+o=
 		</data>
 		<key>Headers/MROfferRequest.h</key>
 		<data>
-		23m1xEcS7fSiBmmbe/xVs5K6pj0=
+		FwvduDt1DfO/PA8dlDEJ8gylSFU=
 		</data>
 		<key>Headers/MROfferRequestBuilder.h</key>
 		<data>
-		Tn5F/bQtIzzvrRxIb6T0tfjV3z8=
+		stT1Tg8+rVbGtAZGJs1XYzVl/zk=
 		</data>
 		<key>Headers/MyTrackerSDK.h</key>
 		<data>
-		Nhu2MEi2V83HiGXpDfTWl/l9vh0=
+		rL5WW9LuVg9iUEIfOnxmznSWckI=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RlFwoBe55BVMVSFrI6URCkXii3I=
+		/6r1YAfw4u+tW6Nh+afIB5r1wlc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -103,33 +111,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EJj/wf3V+WA5jEwdkT7xKQDa6Oo=
+			mSj/PdL9hzmAtc7Kp6+V8PDLOiA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3RhBB80zdRO2FQaY1Lrdf0iWiDiy0eWvfrYBPJbGWgk=
+			qIgOXU4/n071cSEiyPJw0aCfuXXgej96UCanMLowzmM=
 			</data>
 		</dict>
 		<key>Headers/MRAdEventBuilder.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6hB//U/buQiDzXCOoe6QVl0AXr4=
+			Ih6VFY0UeaBrID2LHcAS5q21nf8=
 			</data>
 			<key>hash2</key>
 			<data>
-			lySEvTGO7yR2FsoKZArfmI6mhWbsCcgT1nKP9pk9iMY=
+			SLsZSAxEjtfNALwJ1gJ4wFxDzqsFVUqkO9ZtfhND3Gs=
 			</data>
 		</dict>
 		<key>Headers/MRAdFormat.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			AUwTg8TlhNAiz5wsD0Sv34uFYwY=
+			nM+trYeG3RPppJJlXVLID1bHbiI=
 			</data>
 			<key>hash2</key>
 			<data>
-			FU0JKNg+8hYICFKVJtZz8310uXBs3ZBJuX0wSzjkke0=
+			36IuVxFas82F0MJFIf439T6AuJk0z3sYYj5uQSRXRjk=
 			</data>
 		</dict>
 		<key>Headers/MRAdNetwork.h</key>
@@ -141,6 +149,28 @@
 			<key>hash2</key>
 			<data>
 			O2LRmD9imXT/gUkajjA5d/LcftqbJf7eYwDq8WubYgE=
+			</data>
+		</dict>
+		<key>Headers/MRAntiFraudConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YmiHftHVMmE1CR/kUQWCIaO4lvM=
+			</data>
+			<key>hash2</key>
+			<data>
+			KZryspDJf39FDhFgdQKmW+BrhTN2L1K6AxWFwD/P2Fo=
+			</data>
+		</dict>
+		<key>Headers/MRAntiFraudConfigBuilder.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z/vwlDAsZr6HTmi7KISkSSmVqL8=
+			</data>
+			<key>hash2</key>
+			<data>
+			PJsthX+E9e6Zpyat/mMtB+c2n5FY+CtFaAITB6txSJg=
 			</data>
 		</dict>
 		<key>Headers/MRFinal.h</key>
@@ -180,11 +210,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eTqC4hXU1tViBsbC7w5Wk8TW1oo=
+			Whrb2g6WcWsS67cmT7THpyblU+c=
 			</data>
 			<key>hash2</key>
 			<data>
-			bqMSOalxFcgRZGOa5Um2aEWJwmXLiB/HNdEqDc52Nb0=
+			MWwD9+vbUcMwVxGPezYS60c4ghnxk04um+n+zyrWgiU=
 			</data>
 		</dict>
 		<key>Headers/MRMiniAppEventBuilder.h</key>
@@ -235,99 +265,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z50MQimO7LWWwQWs9jmgYylsMnA=
+			EODvGv7g/dMEcmmk9Pv9o5cDSXc=
 			</data>
 			<key>hash2</key>
 			<data>
-			IcMDWsyiE6kULexETEHSYTdP4Huh5l0NR3c3pkjQjTo=
+			2kjVgDYPK/5CR/8CWaca82Nj2ZHi8ZtonnLU7ieGxDU=
 			</data>
 		</dict>
 		<key>Headers/MRMyTrackerAttribution.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PrSMrq9GQUzyWsadgym5Cmk1GY0=
+			m2zphODJcUuzPbGB60uHseSWlXE=
 			</data>
 			<key>hash2</key>
 			<data>
-			TLH5wXpXzFAhyAADEy+PTRzaMXS1+0uNGsXmxI55Png=
+			LXKoJsunV+ZRK1PWXqc+qZbIm+NEkdAXLhcNA6/gKAI=
 			</data>
 		</dict>
 		<key>Headers/MRMyTrackerConfig.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5o+i5s6E0z3ILGChDyIuaSJK1GE=
+			hn4TRf7zdM0tiKsRSYvTKZnIvJg=
 			</data>
 			<key>hash2</key>
 			<data>
-			tGIbnWAcA46EpOtyuhtrxAlyDHxat7rF8+wGh8HdICA=
+			qxhJvwCEIRC1I6SC/MMstmDqeeYumqT2N57Eot6YI+c=
 			</data>
 		</dict>
 		<key>Headers/MRMyTrackerEvent.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			okGPwBiVLESfUW7R0O4P7cvjDJo=
+			nigW2EdjpjALGbnRk/Z1HqCOQGE=
 			</data>
 			<key>hash2</key>
 			<data>
-			V87PjnUq5wvQRBYtQWwo+mbUG9qYVv5gmxYY8gQ+NlE=
+			UoIZ3fNwoP4oRUv/pozcUm3vp+ACsFUOk1mWtf++1L4=
 			</data>
 		</dict>
 		<key>Headers/MRMyTrackerParams.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IW78CUZl3afc2Von7eSEZ8LBBGc=
+			/ug0Rlz7sSfZEAwP7YHx8iBgJvI=
 			</data>
 			<key>hash2</key>
 			<data>
-			TlpmxtoPFdhqqxeN8dzmXkJYBQb9vpst2l7IHnU9oO8=
+			Rltx7mNt3TLk88gUavJbDTHr6yD/aDJxjmHfv9T5bKg=
 			</data>
 		</dict>
 		<key>Headers/MROffer.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			D5j5TnBkP+UxAsn3YPWclrO3woU=
+			vYvkkK04dwNKTyjVSyP6KGIcM+o=
 			</data>
 			<key>hash2</key>
 			<data>
-			QbjpeMxLWTkFsT+iBaPdFZDaCsApGvfBc8+ZZOu8tJs=
+			LxhLHzjGfgP0BmOogsud4Ymp8OBufmzPlAzhu3IV/TY=
 			</data>
 		</dict>
 		<key>Headers/MROfferRequest.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			23m1xEcS7fSiBmmbe/xVs5K6pj0=
+			FwvduDt1DfO/PA8dlDEJ8gylSFU=
 			</data>
 			<key>hash2</key>
 			<data>
-			k1u9fF460GQG4h8reoXFaougQatjjn8dNFPVkb5dcC4=
+			c/CjzVQ+IuzX2Anpq1kHUKd42Jq0bO4xGXxmPxsQw2k=
 			</data>
 		</dict>
 		<key>Headers/MROfferRequestBuilder.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Tn5F/bQtIzzvrRxIb6T0tfjV3z8=
+			stT1Tg8+rVbGtAZGJs1XYzVl/zk=
 			</data>
 			<key>hash2</key>
 			<data>
-			haVA4EovKkTfom7zJ2z1n42HsobgRuikVUIBIObwu3U=
+			obIrqAxvlVqWKLqq04aRNOV5QAAe0hFFKXgLvKp4Vgo=
 			</data>
 		</dict>
 		<key>Headers/MyTrackerSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Nhu2MEi2V83HiGXpDfTWl/l9vh0=
+			rL5WW9LuVg9iUEIfOnxmznSWckI=
 			</data>
 			<key>hash2</key>
 			<data>
-			PxdvdknRi1P7+fzIc5Rio1cIVmME9mZBa9t+WkDNrCM=
+			HlJGdGSxEnJMtDWyK+RvuMK5h5p1nsYwzSFpEah5EqU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

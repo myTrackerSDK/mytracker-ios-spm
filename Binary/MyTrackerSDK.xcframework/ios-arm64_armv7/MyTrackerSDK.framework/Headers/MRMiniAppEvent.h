@@ -23,32 +23,32 @@ NS_ASSUME_NONNULL_BEGIN
 /**
  @discussion Mini-app identifier
 */
-@property (nonatomic, readonly) NSString *miniAppId;
+@property (nonatomic, readonly) NSString *miniAppId NS_SWIFT_NAME(miniAppId);
 
 /**
  @discussion Platform dependent user identifier
 */
-@property (nonatomic, readonly) NSString *platformUserId;
+@property (nonatomic, readonly) NSString *platformUserId NS_SWIFT_NAME(platformUserId);
 
 /**
  @discussion Query string
 */
-@property (nullable, nonatomic, readonly) NSString *query;
+@property (nullable, nonatomic, readonly) NSString *query NS_SWIFT_NAME(query);
 
 /**
  @discussion Custom user identifier
 */
-@property (nullable, nonatomic, readonly) NSString *customUserId;
+@property (nullable, nonatomic, readonly) NSString *customUserId NS_SWIFT_NAME(customUserId);
 
 /**
  @discussion Custom event name
 */
-@property (nullable, nonatomic, readonly) NSString *name;
+@property (nullable, nonatomic, readonly) NSString *name NS_SWIFT_NAME(name);
 
 /**
  @discussion Additional event key-value params
 */
-@property (nullable, nonatomic, readonly) NSDictionary<NSString *, NSString *> *eventParams;
+@property (nullable, nonatomic, readonly) NSDictionary<NSString *, NSString *> *eventParams NS_SWIFT_NAME(eventParams);
 
 @end
 

@@ -38,7 +38,7 @@ MR_FINAL
  
  @return Instance of MROfferRequestBuilder
  */
-- (instancetype)withPlacementIds:(NSArray<NSString *> * _Nullable)placementId NS_SWIFT_NAME(with(placementIds:));
+- (instancetype)withPlacementIds:(NSArray<NSString *> * _Nullable)placementId NS_SWIFT_NAME(withPlacementIds(_:));
 
 /**
  @discussion Determines should recommendation be reset in next request
@@ -47,7 +47,7 @@ MR_FINAL
  
  @return Instance of MROfferRequestBuilder
  */
-- (instancetype)withReset:(MROfferRequestReset)reset NS_SWIFT_NAME(with(reset:));
+- (instancetype)withReset:(MROfferRequestReset)reset NS_SWIFT_NAME(withReset(_:));
 
 /**
  @discussion Sets the custom data
@@ -56,7 +56,7 @@ MR_FINAL
  
  @return Instance of MROfferRequestBuilder
  */
-- (instancetype)withData:(NSString * _Nullable)data NS_SWIFT_NAME(with(data:));
+- (instancetype)withData:(NSString * _Nullable)data NS_SWIFT_NAME(withData(_:));
 
 /**
  @discussion Delegate which will get response
@@ -65,7 +65,7 @@ MR_FINAL
  
  @return Instance of MROfferRequestBuilder
  */
-- (instancetype)withRequestDelegate:(id <MROfferRequestOnCompleteDelegate> _Nullable)delegate NS_SWIFT_NAME(with(requestDelegate:));
+- (instancetype)withRequestDelegate:(id <MROfferRequestOnCompleteDelegate> _Nullable)delegate NS_SWIFT_NAME(withRequestDelegate(_:));
 
 /**
  @discussion Queue that will be using to call delegate's methods
@@ -74,7 +74,7 @@ MR_FINAL
  
  @return Instance of MROfferRequestBuilder
  */
-- (instancetype)withQueue:(NSOperationQueue *)queue NS_SWIFT_NAME(with(queue:));
+- (instancetype)withQueue:(NSOperationQueue *)queue NS_SWIFT_NAME(withQueue(_:));
 
 /**
  @discussion Builds MROfferRequest instance to make a request for offers

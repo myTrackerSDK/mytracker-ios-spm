@@ -23,3 +23,5 @@
 #import <MyTrackerSDK/MROffer.h>
 #import <MyTrackerSDK/MROfferRequestBuilder.h>
 #import <MyTrackerSDK/MROfferRequest.h>
+#import <MyTrackerSDK/MRAntiFraudConfig.h>
+#import <MyTrackerSDK/MRAntiFraudConfigBuilder.h>

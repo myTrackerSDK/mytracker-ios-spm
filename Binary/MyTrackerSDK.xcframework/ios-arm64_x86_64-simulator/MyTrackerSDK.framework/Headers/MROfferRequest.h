@@ -30,24 +30,26 @@ NS_ASSUME_NONNULL_BEGIN
  @param offers Array of MROffer instances
  @param error NSError instance
  */
-- (void)onComplete:(MROfferRequest *)request offers:(nullable NSArray<MROffer *> *)offers error:(nullable NSString *)error NS_SWIFT_NAME(onComplete(offers:offers:error:));
+- (void)onComplete:(MROfferRequest *)request
+			offers:(nullable NSArray<MROffer *> *)offers
+			 error:(nullable NSString *)error NS_SWIFT_NAME(onComplete(request:offers:error:));
 
 @end
 
 MR_FINAL
 @interface MROfferRequest : NSObject
 
-@property (nonatomic, readonly, nullable) NSArray<NSString *> *placementIds;
+@property (nonatomic, readonly, nullable) NSArray<NSString *> *placementIds NS_SWIFT_NAME(placementIds);
 
-@property (nonatomic, readonly, nullable) NSString *userId;
+@property (nonatomic, readonly, nullable) NSString *userId NS_SWIFT_NAME(userId);
 
-@property (nonatomic, readonly) MROfferRequestReset reset;
+@property (nonatomic, readonly) MROfferRequestReset reset NS_SWIFT_NAME(reset);
 
-@property (nonatomic, readonly, nullable) NSString  *data;
+@property (nonatomic, readonly, nullable) NSString  *data NS_SWIFT_NAME(data);
 
-@property (nonatomic, readonly, weak) id<MROfferRequestOnCompleteDelegate> delegate;
+@property (nonatomic, readonly, weak) id<MROfferRequestOnCompleteDelegate> delegate NS_SWIFT_NAME(delegate);
 
-@property (nonatomic, readonly) NSOperationQueue *queue;
+@property (nonatomic, readonly) NSOperationQueue *queue NS_SWIFT_NAME(queue);
 
 /**
  @discussion Sends a request for offers
