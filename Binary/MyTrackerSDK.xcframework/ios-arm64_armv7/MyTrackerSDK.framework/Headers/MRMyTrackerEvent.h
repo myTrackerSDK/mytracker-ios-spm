@@ -1,6 +1,6 @@
 //
 //  MRMyTrackerEvent.h
-//  myTrackerSDK 3.0.6
+//  myTrackerSDK
 //
 
 #import <Foundation/Foundation.h>
