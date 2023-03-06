@@ -1,6 +1,6 @@
 //
-//  MyTrackerSDK 3.0.7.h
-//  MyTrackerSDK 3.0.7
+//  MyTrackerSDK 3.0.8.h
+//  MyTrackerSDK 3.0.8
 //
 //  Created by Andrey Seredkin on 26.06.17.
 //  Copyright © 2017 MailRu Group. All rights reserved.
@@ -25,3 +25,9 @@
 #import <MyTrackerSDK/MROfferRequest.h>
 #import <MyTrackerSDK/MRAntiFraudConfig.h>
 #import <MyTrackerSDK/MRAntiFraudConfigBuilder.h>
+#import <MyTrackerSDK/MRPersonalizeAPI.h>
+#import <MyTrackerSDK/MRPersonalizeRequest.h>
+#import <MyTrackerSDK/MRPersonalizeResponse.h>
+#import <MyTrackerSDK/MRPersonalizeItem.h>
+#import <MyTrackerSDK/MRPersonalizeOffer.h>
+#import <MyTrackerSDK/MRPersonalizePlacement.h>

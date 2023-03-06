@@ -92,13 +92,37 @@
 		<data>
 		stT1Tg8+rVbGtAZGJs1XYzVl/zk=
 		</data>
+		<key>Headers/MRPersonalizeAPI.h</key>
+		<data>
+		LX4762D0jhYfF2klhkjcFC1EGFM=
+		</data>
+		<key>Headers/MRPersonalizeItem.h</key>
+		<data>
+		vWLdMrO8MOweT1wvm+BHX/ncMlY=
+		</data>
+		<key>Headers/MRPersonalizeOffer.h</key>
+		<data>
+		LZ9OTkV/m5avF+FIKZSPgP9uuqU=
+		</data>
+		<key>Headers/MRPersonalizePlacement.h</key>
+		<data>
+		dwjvQkHYP1Qtcl4N4S9ppIMpeHc=
+		</data>
+		<key>Headers/MRPersonalizeRequest.h</key>
+		<data>
+		zhY3QdgD6GLi5Pk0vIIG4q4nOmw=
+		</data>
+		<key>Headers/MRPersonalizeResponse.h</key>
+		<data>
+		YRbr3g45nx4MmC5c4+NyX1kSb3k=
+		</data>
 		<key>Headers/MyTrackerSDK.h</key>
 		<data>
-		rL5WW9LuVg9iUEIfOnxmznSWckI=
+		B+jp8zcOtKyduYPWmSlHvgCvPu4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7AE80xEoAf899Xqm2Ci7eqxxzVo=
+		s8qm3wjPFiZSmjyjblPdnCG6Ubg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -349,15 +373,81 @@
 			obIrqAxvlVqWKLqq04aRNOV5QAAe0hFFKXgLvKp4Vgo=
 			</data>
 		</dict>
+		<key>Headers/MRPersonalizeAPI.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LX4762D0jhYfF2klhkjcFC1EGFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			U9e3cxTJfy6uIWGfnwLpqtxHD4I3fpWRO2YZA4a1y7E=
+			</data>
+		</dict>
+		<key>Headers/MRPersonalizeItem.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vWLdMrO8MOweT1wvm+BHX/ncMlY=
+			</data>
+			<key>hash2</key>
+			<data>
+			8qS7THbUpfPSoVuk4I+4mnCT7YqlU/BUVdNEAFF6dyc=
+			</data>
+		</dict>
+		<key>Headers/MRPersonalizeOffer.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LZ9OTkV/m5avF+FIKZSPgP9uuqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZJwefnJwX8IPCcUDa16rikp+kIFB0u+KjCoAhFbxQZQ=
+			</data>
+		</dict>
+		<key>Headers/MRPersonalizePlacement.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dwjvQkHYP1Qtcl4N4S9ppIMpeHc=
+			</data>
+			<key>hash2</key>
+			<data>
+			7RIPIQTF4yc8rVy1NbwvfDYr8glVPE8ybn13bgGSiSA=
+			</data>
+		</dict>
+		<key>Headers/MRPersonalizeRequest.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zhY3QdgD6GLi5Pk0vIIG4q4nOmw=
+			</data>
+			<key>hash2</key>
+			<data>
+			oxLw7gPU+cYoCL1Gqc1hbwBqvxHx9Ji0FAs73TKlyeU=
+			</data>
+		</dict>
+		<key>Headers/MRPersonalizeResponse.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YRbr3g45nx4MmC5c4+NyX1kSb3k=
+			</data>
+			<key>hash2</key>
+			<data>
+			zDEg+7phySqFSU2yOrC6o1xI5imoa7I7OPd2zm9kI94=
+			</data>
+		</dict>
 		<key>Headers/MyTrackerSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rL5WW9LuVg9iUEIfOnxmznSWckI=
+			B+jp8zcOtKyduYPWmSlHvgCvPu4=
 			</data>
 			<key>hash2</key>
 			<data>
-			HlJGdGSxEnJMtDWyK+RvuMK5h5p1nsYwzSFpEah5EqU=
+			0CicvxH5t2pIAu7peqTRSdtoFQjLd0jh4RmUQAe4qmo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
