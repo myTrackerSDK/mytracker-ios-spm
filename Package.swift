@@ -6,7 +6,7 @@ let package = Package(
 	name: "MyTrackerSDK",
 	platforms:
 	[
-		.iOS(.v9)
+		.iOS("12.4")
 	],
 	products:
 	[

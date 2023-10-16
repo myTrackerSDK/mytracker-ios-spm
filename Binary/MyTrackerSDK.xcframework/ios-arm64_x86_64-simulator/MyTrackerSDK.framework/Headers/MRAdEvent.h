@@ -5,7 +5,6 @@
 
 #import <MyTrackerSDK/MRAdNetwork.h>
 #import <MyTrackerSDK/MRFinal.h>
-#import <MyTrackerSDK/MRAdFormat.h>
 #import <MyTrackerSDK/MRMyTrackerEvent.h>
 
 NS_ASSUME_NONNULL_BEGIN

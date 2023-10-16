@@ -18,7 +18,7 @@ Run `pod install`.
 
 ## Requirements
 
-iOS 9.0
+iOS 12.4
 
 ## Author
 

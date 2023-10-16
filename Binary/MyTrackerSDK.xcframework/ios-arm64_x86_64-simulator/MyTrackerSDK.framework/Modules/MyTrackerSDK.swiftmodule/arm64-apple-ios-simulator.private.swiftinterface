@@ -1,0 +1,36 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios12.4-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MyTrackerSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CoreData
+import Foundation
+@_exported import MyTrackerSDK
+import Swift
+import UIKit
+import _Concurrency
+import _StringProcessing
+@_hasMissingDesignatedInitializers @objc(MRMyTimespentTracker) @objcMembers final public class TimespentTracker : ObjectiveC.NSObject {
+  @objc public static let shared: MyTrackerSDK.TimespentTracker
+  @objc final public func startTimespent(id: Swift.Int, canUseInBackground: Swift.Bool)
+  @objc final public func startForegroundTimespent(id: Swift.Int)
+  @objc final public func startAnytimeTimespent(id: Swift.Int)
+  @objc final public func stopTimespent(id: Swift.Int)
+  @objc final public func incrementEventTimespent(id: Swift.Int)
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @objcMembers final public class MRAdFormat : ObjectiveC.NSObject {
+  @objc public static var banner: Swift.String {
+    @objc get
+  }
+  @objc public static var interstitial: Swift.String {
+    @objc get
+  }
+  @objc public static var native: Swift.String {
+    @objc get
+  }
+  @objc public static var rewarded: Swift.String {
+    @objc get
+  }
+  @objc override dynamic public init()
+  @objc deinit
+}

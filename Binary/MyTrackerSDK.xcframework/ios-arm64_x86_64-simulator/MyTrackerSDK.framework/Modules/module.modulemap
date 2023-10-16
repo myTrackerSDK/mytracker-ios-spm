@@ -4,3 +4,8 @@ framework module MyTrackerSDK {
   export *
   module * { export * }
 }
+
+module MyTrackerSDK.Swift {
+  header "MyTrackerSDK-Swift.h"
+  requires objc
+}

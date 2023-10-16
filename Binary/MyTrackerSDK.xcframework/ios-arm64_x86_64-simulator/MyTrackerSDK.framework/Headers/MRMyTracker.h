@@ -89,6 +89,8 @@ NS_ASSUME_NONNULL_BEGIN
  */
 + (void)flush NS_SWIFT_NAME(flush());
 
++ (void)flushWithCompletionBlock:(void (^)(BOOL success))completionBlock NS_SWIFT_NAME(flush(completion:));
+
 /**
  @discussion Any user defined event with a custom name.
  

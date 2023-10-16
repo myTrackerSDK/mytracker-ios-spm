@@ -1,6 +1,6 @@
 //
-//  MyTrackerSDK 3.0.8.h
-//  MyTrackerSDK 3.0.8
+//  MyTrackerSDK 3.1.0.h
+//  MyTrackerSDK 3.1.0
 //
 //  Created by Andrey Seredkin on 26.06.17.
 //  Copyright © 2017 MailRu Group. All rights reserved.
@@ -11,7 +11,6 @@
 #import <MyTrackerSDK/MRMyTrackerParams.h>
 #import <MyTrackerSDK/MRMyTrackerAttribution.h>
 #import <MyTrackerSDK/MRAdNetwork.h>
-#import <MyTrackerSDK/MRAdFormat.h>
 #import <MyTrackerSDK/MRMyTrackerEvent.h>
 #import <MyTrackerSDK/MRAdEvent.h>
 #import <MyTrackerSDK/MRAdEventBuilder.h>

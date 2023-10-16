@@ -1,6 +1,6 @@
 //
 //  MROffer.h
-//  MyTrackerSDK 3.0.8
+//  MyTrackerSDK 3.1.0
 //
 //  Created by Alexander Zakatnov on 27.04.2021.
 //  Copyright © 2021 Mail.Ru Group. All rights reserved.
