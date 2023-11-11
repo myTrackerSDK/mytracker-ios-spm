@@ -16,26 +16,6 @@
       },
       {
         "kind": "Import",
-        "name": "MyTrackerSDK_Internal",
-        "printedName": "MyTrackerSDK_Internal",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -50,6 +30,33 @@
         "printedName": "CoreData",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SystemConfiguration.CaptiveNetwork",
+        "printedName": "SystemConfiguration.CaptiveNetwork",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -435,6 +442,33 @@
       },
       {
         "kind": "Import",
+        "name": "CoreTelephony.CTTelephonyNetworkInfo",
+        "printedName": "CoreTelephony.CTTelephonyNetworkInfo",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -777,52 +811,59 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
         "name": "MyTrackerSDK_Internal",
         "printedName": "MyTrackerSDK_Internal",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
         ]
       },
       {
@@ -964,26 +1005,6 @@
       },
       {
         "kind": "Import",
-        "name": "MyTrackerSDK_Internal",
-        "printedName": "MyTrackerSDK_Internal",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1058,13 +1079,51 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto.CommonDigest",
+        "printedName": "CommonCrypto.CommonDigest",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony.CTCarrier",
+        "printedName": "CoreTelephony.CTCarrier",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony.CTTelephonyNetworkInfo",
+        "printedName": "CoreTelephony.CTTelephonyNetworkInfo",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
       },
       {
         "kind": "Import",
@@ -1175,10 +1234,30 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -1259,6 +1338,26 @@
       },
       {
         "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
         "declKind": "Import",
@@ -1292,6 +1391,123 @@
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
         ]
       },
       {
@@ -1356,6 +1572,33 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "MyTrackerSDK_Internal",
         "printedName": "MyTrackerSDK_Internal",
         "declKind": "Import",
@@ -1363,120 +1606,6 @@
         "declAttributes": [
           "ImplementationOnly"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
       },
       {
         "kind": "Import",
@@ -1587,8 +1716,35 @@
       },
       {
         "kind": "Import",
-        "name": "SwiftProtobuf",
-        "printedName": "SwiftProtobuf",
+        "name": "VKAnalyticsSwiftProtobuf",
+        "printedName": "VKAnalyticsSwiftProtobuf",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
@@ -1630,6 +1786,26 @@
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
         ]
       },
       {
@@ -1684,154 +1860,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "SwiftProtobuf",
-        "printedName": "SwiftProtobuf",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "MyTrackerSDK_Internal",
         "printedName": "MyTrackerSDK_Internal",
         "declKind": "Import",
@@ -1841,75 +1869,162 @@
         ]
       },
       {
-        "kind": "TypeDecl",
-        "name": "MRIdfaDataProvider",
-        "printedName": "MRIdfaDataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRIdfaDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRIdfaDataProvider",
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
         "declAttributes": [
-          "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
+          "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "VKAnalyticsSwiftProtobuf",
+        "printedName": "VKAnalyticsSwiftProtobuf",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreData",
+        "printedName": "CoreData",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
       },
       {
         "kind": "TypeDecl",
@@ -1985,228 +2100,19 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MRDeviceDataProvider",
-        "printedName": "MRDeviceDataProvider",
+        "name": "UIDevice",
+        "printedName": "UIDevice",
         "declKind": "Class",
-        "usr": "c:objc(cs)MRDeviceDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
+        "usr": "c:objc(cs)UIDevice",
+        "moduleName": "UIKit",
         "isOpen": true,
-        "objc_name": "MRDeviceDataProvider",
+        "intro_iOS": "2.0",
+        "objc_name": "UIDevice",
         "declAttributes": [
+          "Available",
           "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "MRBatteryInfoDataProvider",
-        "printedName": "MRBatteryInfoDataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRBatteryInfoDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRBatteryInfoDataProvider",
-        "declAttributes": [
-          "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "MRIpv4DataProvider",
-        "printedName": "MRIpv4DataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRIpv4DataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRIpv4DataProvider",
-        "declAttributes": [
-          "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "MRNetworkDataProvider",
-        "printedName": "MRNetworkDataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRNetworkDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRNetworkDataProvider",
-        "declAttributes": [
-          "ObjC",
+          "NonSendable",
+          "Custom",
           "Dynamic"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2341,77 +2247,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MRFirebaseAppInstanceIdProvider",
-        "printedName": "MRFirebaseAppInstanceIdProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRFirebaseAppInstanceIdProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRFirebaseAppInstanceIdProvider",
-        "declAttributes": [
-          "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "FileManager",
         "printedName": "FileManager",
         "declKind": "Class",
@@ -2484,86 +2319,19 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "MRLocationDataProvider",
-        "printedName": "MRLocationDataProvider",
+        "name": "UIScreen",
+        "printedName": "UIScreen",
         "declKind": "Class",
-        "usr": "c:objc(cs)MRLocationDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
+        "usr": "c:objc(cs)UIScreen",
+        "moduleName": "UIKit",
         "isOpen": true,
-        "objc_name": "MRLocationDataProvider",
+        "intro_iOS": "2.0",
+        "objc_name": "UIScreen",
         "declAttributes": [
+          "Available",
           "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "MRSigDataProvider",
-        "printedName": "MRSigDataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MRSigDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MRSigDataProvider",
-        "declAttributes": [
-          "ObjC",
+          "NonSendable",
+          "Custom",
           "Dynamic"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2694,77 +2462,6 @@
             "mangledName": "$ss28CustomDebugStringConvertibleP"
           }
         ]
-      },
-      {
-        "kind": "TypeDecl",
-        "name": "MREnvironmentDataProvider",
-        "printedName": "MREnvironmentDataProvider",
-        "declKind": "Class",
-        "usr": "c:objc(cs)MREnvironmentDataProvider",
-        "moduleName": "MyTrackerSDK_Internal",
-        "isOpen": true,
-        "objc_name": "MREnvironmentDataProvider",
-        "declAttributes": [
-          "ObjC",
-          "Dynamic"
-        ],
-        "superclassUsr": "c:objc(cs)NSObject",
-        "isExternal": true,
-        "inheritsConvenienceInitializers": true,
-        "superclassNames": [
-          "ObjectiveC.NSObject"
-        ],
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObservingPublishing",
-            "printedName": "_KeyValueCodingAndObservingPublishing",
-            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
-            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_KeyValueCodingAndObserving",
-            "printedName": "_KeyValueCodingAndObserving",
-            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
-            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          }
-        ]
       }
     ],
     "json_format_version": 8
@@ -2834,11 +2531,200 @@
       "value": "2"
     },
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 351,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5625,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5708,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5785,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5625,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5708,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5785,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5625,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5708,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5785,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 5899,
+      "length": 19,
+      "value": "\"CLLocationManager\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 5984,
+      "length": 25,
+      "value": "\"locationServicesEnabled\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/EnvironmentDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 6046,
+      "length": 21,
+      "value": "\"authorizationStatus\""
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Public\/Timespent\/TimespentTracker.swift",
       "kind": "StringLiteral",
       "offset": 294,
       "length": 16,
       "value": "\"MyTrackerSDK.TimespentTracker\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3457,
+      "length": 2,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3488,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3512,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3534,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3457,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3488,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3512,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3534,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3457,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3488,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3512,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3534,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 3598,
+      "length": 6,
+      "value": "\"wifi\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 3633,
+      "length": 25,
+      "value": "\"CTRadioAccessTechnology\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Public\/Ads\/MRAdFormat.swift",
@@ -2869,11 +2755,67 @@
       "value": "\"rewarded\""
     },
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/IdfaDataProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1988,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/IdfaDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 5098,
+      "length": 38,
+      "value": "\"00000000-0000-0000-0000-000000000000\""
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/Models\/TimespentCountBasedEvent.swift",
       "kind": "IntegerLiteral",
       "offset": 445,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 775,
+      "length": 45,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 785,
+      "length": 1,
+      "value": "\":\/\/\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 811,
+      "length": 1,
+      "value": "\".\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 819,
+      "length": 1,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 3728,
+      "length": 5,
+      "value": "\"ip4\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
+      "kind": "FloatLiteral",
+      "offset": 3782,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/Models\/TimespentPackage\/TimespentPackageDeviceInfo.swift",
@@ -3023,18 +2965,67 @@
       "value": "\"mt_click_id\""
     },
     {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/MRIpv4DataProvider+DataProvider.swift",
-      "kind": "IntegerLiteral",
-      "offset": 854,
-      "length": 1,
-      "value": "1"
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 2130,
+      "length": 7,
+      "value": "\"Apple\""
     },
     {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/MRIpv4DataProvider+DataProvider.swift",
-      "kind": "FloatLiteral",
-      "offset": 903,
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2171,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 7622,
       "length": 4,
-      "value": "0.01"
+      "value": "\"ru\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 7663,
+      "length": 10,
+      "value": "\"%@:00 %@\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 7713,
+      "length": 33,
+      "value": "\"com.my.MyTracker.vendorIdCached\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 7784,
+      "length": 66,
+      "value": "\"%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x%02x\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 7881,
+      "length": 38,
+      "value": "\"00000000-0000-0000-0000-000000000000\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7962,
+      "length": 3,
+      "value": "160"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/DeviceDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 8033,
+      "length": 28,
+      "value": "\"CFBundleShortVersionString\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
@@ -3086,11 +3077,333 @@
       "value": "[]"
     },
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 673,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8233,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8247,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 8668,
+      "length": 61,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 8676,
+      "length": 1,
+      "value": "\": nil pointer returned instead struct for coordinate\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 8823,
+      "length": 49,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 8831,
+      "length": 1,
+      "value": "\": signature for method coordinate is nil\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9985,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10037,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "FloatLiteral",
+      "offset": 10089,
+      "length": 4,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "FloatLiteral",
+      "offset": 10135,
+      "length": 4,
+      "value": "90.0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "FloatLiteral",
+      "offset": 10182,
+      "length": 5,
+      "value": "180.0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10255,
+      "length": 19,
+      "value": "\"CLLocationManager\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10336,
+      "length": 10,
+      "value": "\"delegate\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10392,
+      "length": 17,
+      "value": "\"desiredAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10487,
+      "length": 23,
+      "value": "\"startUpdatingLocation\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10545,
+      "length": 22,
+      "value": "\"stopUpdatingLocation\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10605,
+      "length": 25,
+      "value": "\"locationServicesEnabled\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10667,
+      "length": 21,
+      "value": "\"authorizationStatus\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10727,
+      "length": 10,
+      "value": "\"location\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10854,
+      "length": 12,
+      "value": "\"coordinate\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10942,
+      "length": 20,
+      "value": "\"horizontalAccuracy\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 10998,
+      "length": 7,
+      "value": "\"speed\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/LocationDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 11045,
+      "length": 11,
+      "value": "\"timestamp\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/FirebaseAppInstanceIdProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 394,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/FirebaseAppInstanceIdProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 2491,
+      "length": 14,
+      "value": "\"FIRAnalytics\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/FirebaseAppInstanceIdProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 2577,
+      "length": 15,
+      "value": "\"appInstanceID\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 484,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 510,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 539,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 568,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 590,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 484,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 510,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 539,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 568,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 590,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 484,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 510,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 539,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 568,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/BatteryDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 590,
+      "length": 1,
+      "value": "5"
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/Models\/TimespentTime.swift",
       "kind": "IntegerLiteral",
       "offset": 965,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/AdSupportWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3108,
+      "length": 21,
+      "value": "\"ASIdentifierManager\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/AdSupportWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3202,
+      "length": 15,
+      "value": "\"sharedManager\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/AdSupportWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3274,
+      "length": 28,
+      "value": "\"advertisingTrackingEnabled\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/AdSupportWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3354,
+      "length": 23,
+      "value": "\"advertisingIdentifier\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/ExternalEventHandler.swift",
@@ -3228,21 +3541,7 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 16049,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
-      "kind": "Array",
-      "offset": 16144,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
-      "kind": "Array",
-      "offset": 16202,
+      "offset": 16203,
       "length": 2,
       "value": "[]"
     },
@@ -3256,1178 +3555,1290 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 16404,
+      "offset": 16356,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 16484,
+      "offset": 16452,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 16596,
+      "offset": 16558,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 39731,
+      "offset": 16638,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
+      "kind": "Array",
+      "offset": 16750,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
+      "kind": "Array",
+      "offset": 40017,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 40832,
+      "offset": 41162,
       "length": 14,
       "value": "\"TimeSpentMsg\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 40910,
+      "offset": 41251,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 40930,
+      "offset": 41271,
       "length": 19,
       "value": "\"mytracker_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 40956,
+      "offset": 41297,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 40976,
+      "offset": 41317,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 40991,
+      "offset": 41332,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41011,
+      "offset": 41352,
       "length": 16,
       "value": "\"timestamp_base\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41034,
+      "offset": 41375,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41054,
+      "offset": 41395,
       "length": 16,
       "value": "\"timestamp_send\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41077,
+      "offset": 41418,
       "length": 2,
       "value": "21"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41098,
+      "offset": 41439,
       "length": 10,
       "value": "\"app_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41115,
+      "offset": 41456,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41136,
+      "offset": 41477,
       "length": 11,
       "value": "\"user_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41154,
+      "offset": 41495,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41175,
+      "offset": 41516,
       "length": 13,
       "value": "\"device_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41195,
+      "offset": 41536,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41216,
+      "offset": 41557,
       "length": 14,
       "value": "\"network_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41237,
+      "offset": 41578,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41258,
+      "offset": 41599,
       "length": 15,
       "value": "\"location_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41280,
+      "offset": 41621,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41301,
+      "offset": 41642,
       "length": 14,
       "value": "\"wifi_current\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41322,
+      "offset": 41663,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41343,
+      "offset": 41684,
       "length": 20,
       "value": "\"count_based_events\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41370,
+      "offset": 41711,
       "length": 2,
       "value": "39"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41391,
+      "offset": 41732,
       "length": 19,
       "value": "\"time_based_events\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 41968,
+      "offset": 42309,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 42029,
+      "offset": 42370,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48282,
+      "offset": 48678,
       "length": 18,
       "value": "\".CountBasedEvent\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 48364,
+      "offset": 48771,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48380,
+      "offset": 48787,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 48391,
+      "offset": 48798,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48407,
+      "offset": 48814,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50147,
+      "offset": 50609,
       "length": 17,
       "value": "\".TimeBasedEvent\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50228,
+      "offset": 50701,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50244,
+      "offset": 50717,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50255,
+      "offset": 50728,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50271,
+      "offset": 50744,
       "length": 17,
       "value": "\"valueForeground\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50295,
+      "offset": 50768,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50311,
+      "offset": 50784,
       "length": 17,
       "value": "\"valueBackground\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52374,
+      "offset": 52902,
       "length": 10,
       "value": "\".AppInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52448,
+      "offset": 52987,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52468,
+      "offset": 53007,
       "length": 13,
       "value": "\"app_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52488,
+      "offset": 53027,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52508,
+      "offset": 53047,
       "length": 11,
       "value": "\"app_build\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52526,
+      "offset": 53065,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52546,
+      "offset": 53085,
       "length": 14,
       "value": "\"app_language\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52567,
+      "offset": 53106,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52587,
+      "offset": 53126,
       "length": 12,
       "value": "\"app_bundle\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52606,
+      "offset": 53145,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52627,
+      "offset": 53166,
       "length": 10,
       "value": "\"ios_data\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55195,
+      "offset": 55789,
       "length": 10,
       "value": "\".IosData\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 55269,
+      "offset": 55874,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55289,
+      "offset": 55894,
       "length": 15,
       "value": "\"ios_vendor_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 55311,
+      "offset": 55916,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55331,
+      "offset": 55936,
       "length": 22,
       "value": "\"ios_vendor_id_cached\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57168,
+      "offset": 57828,
       "length": 11,
       "value": "\".UserInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57243,
+      "offset": 57914,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57259,
+      "offset": 57930,
       "length": 8,
       "value": "\"gender\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57274,
+      "offset": 57945,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57290,
+      "offset": 57961,
       "length": 5,
       "value": "\"age\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57302,
+      "offset": 57973,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57322,
+      "offset": 57993,
       "length": 7,
       "value": "\"ok_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57336,
+      "offset": 58007,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57356,
+      "offset": 58027,
       "length": 7,
       "value": "\"vk_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57370,
+      "offset": 58041,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57386,
+      "offset": 58057,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57400,
+      "offset": 58071,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57420,
+      "offset": 58091,
       "length": 8,
       "value": "\"icq_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57435,
+      "offset": 58106,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57455,
+      "offset": 58126,
       "length": 16,
       "value": "\"custom_user_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57478,
+      "offset": 58149,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57494,
+      "offset": 58165,
       "length": 7,
       "value": "\"phone\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57508,
+      "offset": 58179,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57528,
+      "offset": 58199,
       "length": 15,
       "value": "\"vk_connect_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61005,
+      "offset": 61731,
       "length": 13,
       "value": "\".DeviceInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61082,
+      "offset": 61819,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61098,
+      "offset": 61835,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61109,
+      "offset": 61846,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61129,
+      "offset": 61866,
       "length": 12,
       "value": "\"os_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61148,
+      "offset": 61885,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61168,
+      "offset": 61905,
       "length": 13,
       "value": "\"os_language\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61188,
+      "offset": 61925,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61204,
+      "offset": 61941,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61221,
+      "offset": 61958,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61241,
+      "offset": 61978,
       "length": 13,
       "value": "\"instance_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61261,
+      "offset": 61998,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61277,
+      "offset": 62014,
       "length": 10,
       "value": "\"codename\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61294,
+      "offset": 62031,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61310,
+      "offset": 62047,
       "length": 8,
       "value": "\"euname\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61325,
+      "offset": 62062,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61341,
+      "offset": 62078,
       "length": 13,
       "value": "\"manufacture\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61361,
+      "offset": 62098,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61377,
+      "offset": 62114,
       "length": 8,
       "value": "\"rooted\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61392,
+      "offset": 62129,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61413,
+      "offset": 62150,
       "length": 14,
       "value": "\"screen_width\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61434,
+      "offset": 62171,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61455,
+      "offset": 62192,
       "length": 15,
       "value": "\"screen_height\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61477,
+      "offset": 62214,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61494,
+      "offset": 62231,
       "length": 5,
       "value": "\"dpi\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61506,
+      "offset": 62243,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61523,
+      "offset": 62260,
       "length": 9,
       "value": "\"density\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61539,
+      "offset": 62276,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61560,
+      "offset": 62297,
       "length": 16,
       "value": "\"battery_status\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61583,
+      "offset": 62320,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61604,
+      "offset": 62341,
       "length": 15,
       "value": "\"battery_level\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61626,
+      "offset": 62363,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61647,
+      "offset": 62384,
       "length": 14,
       "value": "\"memory_total\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61668,
+      "offset": 62405,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61689,
+      "offset": 62426,
       "length": 18,
       "value": "\"memory_available\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61714,
+      "offset": 62451,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61735,
+      "offset": 62472,
       "length": 26,
       "value": "\"firebase_app_instance_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61768,
+      "offset": 62505,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61789,
+      "offset": 62526,
       "length": 10,
       "value": "\"ios_data\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 70963,
+      "offset": 71755,
       "length": 10,
       "value": "\".IosData\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71037,
+      "offset": 71840,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71053,
+      "offset": 71856,
       "length": 6,
       "value": "\"idfa\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71066,
+      "offset": 71869,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71086,
+      "offset": 71889,
       "length": 23,
       "value": "\"idfa_tracking_enabled\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71116,
+      "offset": 71919,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71132,
+      "offset": 71935,
       "length": 5,
       "value": "\"sig\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71144,
+      "offset": 71947,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71160,
+      "offset": 71963,
       "length": 6,
       "value": "\"sig2\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71173,
+      "offset": 71976,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71193,
+      "offset": 71996,
       "length": 12,
       "value": "\"att_status\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71212,
+      "offset": 72015,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71228,
+      "offset": 72031,
       "length": 6,
       "value": "\"sig3\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71241,
+      "offset": 72044,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71257,
+      "offset": 72060,
       "length": 6,
       "value": "\"sig4\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74279,
+      "offset": 75137,
       "length": 14,
       "value": "\".NetworkInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74357,
+      "offset": 75226,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74373,
+      "offset": 75242,
       "length": 12,
       "value": "\"connection\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74392,
+      "offset": 75261,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74412,
+      "offset": 75281,
       "length": 17,
       "value": "\"connection_type\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74436,
+      "offset": 75305,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74456,
+      "offset": 75325,
       "length": 14,
       "value": "\"sim_location\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74477,
+      "offset": 75346,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74497,
+      "offset": 75366,
       "length": 13,
       "value": "\"operator_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74517,
+      "offset": 75386,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74537,
+      "offset": 75406,
       "length": 15,
       "value": "\"operator_name\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74559,
+      "offset": 75428,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74575,
+      "offset": 75444,
       "length": 6,
       "value": "\"ipv4\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74588,
+      "offset": 75457,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74604,
+      "offset": 75473,
       "length": 4,
       "value": "\"ip\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 74615,
+      "offset": 75484,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 74636,
+      "offset": 75505,
       "length": 17,
       "value": "\"x_forwarded_for\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78000,
+      "offset": 78924,
       "length": 15,
       "value": "\".LocationInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 78079,
+      "offset": 79014,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78095,
+      "offset": 79030,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 78112,
+      "offset": 79047,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78128,
+      "offset": 79063,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 78146,
+      "offset": 79081,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78162,
+      "offset": 79097,
       "length": 7,
       "value": "\"speed\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 78176,
+      "offset": 79111,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78192,
+      "offset": 79127,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 78209,
+      "offset": 79144,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78225,
+      "offset": 79160,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 80761,
+      "offset": 81751,
       "length": 11,
       "value": "\".WifiInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 80836,
+      "offset": 81837,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 80852,
+      "offset": 81853,
       "length": 7,
       "value": "\"bssid\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 80866,
+      "offset": 81867,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 80882,
+      "offset": 81883,
       "length": 6,
       "value": "\"ssid\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 82577,
+      "offset": 83633,
       "length": 19,
       "value": "\"TimeSpentMsgBunch\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 82660,
+      "offset": 83727,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 82676,
+      "offset": 83743,
       "length": 10,
       "value": "\"messages\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1280,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1295,
+      "length": 10,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1280,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1295,
+      "length": 10,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1280,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1295,
+      "length": 10,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1319,
+      "length": 6,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1339,
+      "length": 10,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3166,
+      "length": 19,
+      "value": "\"ATTrackingManager\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/ATTrackingWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 3230,
+      "length": 29,
+      "value": "\"trackingAuthorizationStatus\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
@@ -4442,6 +4853,69 @@
       "offset": 9434,
       "length": 30,
       "value": "\"com.my.tracker.sdk.timespent\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 297,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1463,
+      "length": 22,
+      "value": "\"com.my.MyTracker.sig\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1506,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig2\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1550,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig3\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1594,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig4\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1463,
+      "length": 22,
+      "value": "\"com.my.MyTracker.sig\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1506,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig2\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1550,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig3\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/SigDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 1594,
+      "length": 23,
+      "value": "\"com.my.MyTracker.sig4\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataDatabaseVersionChecker.swift",

@@ -27,8 +27,7 @@ let package = Package(
 					.linkedFramework("iAd"),
 					.linkedFramework("CoreTelephony"),
 					.linkedFramework("StoreKit"),
-					.linkedFramework("CoreMotion"),
-					.linkedFramework("AdSupport")
+					.linkedFramework("CoreMotion")
 				]
 		),
 		.binaryTarget(name: "MyTrackerSDK",
