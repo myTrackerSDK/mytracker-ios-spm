@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		fi7fzsTBt5+bJp5U6P8O/tMDDUc=
+		Pkml8QKeWt8UxyskbvINbrKy96Y=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -146,7 +146,7 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		fi7fzsTBt5+bJp5U6P8O/tMDDUc=
+		Pkml8QKeWt8UxyskbvINbrKy96Y=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -494,11 +494,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fi7fzsTBt5+bJp5U6P8O/tMDDUc=
+			Pkml8QKeWt8UxyskbvINbrKy96Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcmuRGD+xJejK551iznIfxT5O3qTWulgyj8ndydvLsc=
+			6IIZUxpAsaVPSCw881MUnlnbx9RFxV7w3s4xE+RCaN4=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -549,11 +549,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fi7fzsTBt5+bJp5U6P8O/tMDDUc=
+			Pkml8QKeWt8UxyskbvINbrKy96Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			ZcmuRGD+xJejK551iznIfxT5O3qTWulgyj8ndydvLsc=
+			6IIZUxpAsaVPSCw881MUnlnbx9RFxV7w3s4xE+RCaN4=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>

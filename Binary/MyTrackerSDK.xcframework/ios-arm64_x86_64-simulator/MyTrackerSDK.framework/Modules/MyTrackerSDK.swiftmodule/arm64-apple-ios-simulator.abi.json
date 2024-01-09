@@ -5090,14 +5090,14 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 9324,
+      "offset": 10188,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 9434,
+      "offset": 10298,
       "length": 30,
       "value": "\"com.my.tracker.sdk.timespent\""
     },
