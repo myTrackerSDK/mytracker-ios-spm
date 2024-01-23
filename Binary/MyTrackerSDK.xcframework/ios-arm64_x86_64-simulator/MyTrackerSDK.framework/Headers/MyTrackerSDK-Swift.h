@@ -286,7 +286,32 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+
+/// The various log message types that the logger provides.
+typedef SWIFT_ENUM_NAMED(NSInteger, MRLogMessageType, "LogMessageType", open) {
+/// The informative log message type.
+  MRLogMessageTypeInfo = 0,
+/// The warning log message type.
+  MRLogMessageTypeWarning = 1,
+/// The error log message type.
+  MRLogMessageTypeError = 2,
+/// The critical log message type.
+  MRLogMessageTypeCritical = 3,
+};
+
 @class NSString;
+
+/// A <code>Logger</code> is an implementation of a logger.
+SWIFT_PROTOCOL_NAMED("Logger")
+@protocol MRLogger
+/// This method is called when a <code>Logger</code> must emit a log message.
+/// \param message The message to be logged.
+///
+/// \param type The log message type of <code>message</code>. For the available log message types, see <code>LogMessageType</code>.
+///
+- (void)logMessage:(NSString * _Nonnull)message type:(enum MRLogMessageType)type;
+@end
+
 
 /// Class with values for advertising formats.
 SWIFT_CLASS("_TtC12MyTrackerSDK10MRAdFormat")
@@ -301,6 +326,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 + (NSString * _Nonnull)rewarded SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 
@@ -640,7 +666,32 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+
+/// The various log message types that the logger provides.
+typedef SWIFT_ENUM_NAMED(NSInteger, MRLogMessageType, "LogMessageType", open) {
+/// The informative log message type.
+  MRLogMessageTypeInfo = 0,
+/// The warning log message type.
+  MRLogMessageTypeWarning = 1,
+/// The error log message type.
+  MRLogMessageTypeError = 2,
+/// The critical log message type.
+  MRLogMessageTypeCritical = 3,
+};
+
 @class NSString;
+
+/// A <code>Logger</code> is an implementation of a logger.
+SWIFT_PROTOCOL_NAMED("Logger")
+@protocol MRLogger
+/// This method is called when a <code>Logger</code> must emit a log message.
+/// \param message The message to be logged.
+///
+/// \param type The log message type of <code>message</code>. For the available log message types, see <code>LogMessageType</code>.
+///
+- (void)logMessage:(NSString * _Nonnull)message type:(enum MRLogMessageType)type;
+@end
+
 
 /// Class with values for advertising formats.
 SWIFT_CLASS("_TtC12MyTrackerSDK10MRAdFormat")
@@ -655,6 +706,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 + (NSString * _Nonnull)rewarded SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 

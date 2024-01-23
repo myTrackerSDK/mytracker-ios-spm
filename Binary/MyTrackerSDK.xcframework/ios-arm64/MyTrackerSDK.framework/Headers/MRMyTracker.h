@@ -14,6 +14,7 @@
 @class SKProduct;
 @class SKPaymentTransaction;
 @class MRAdEvent;
+@protocol MRLogger;
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -76,6 +77,20 @@ NS_ASSUME_NONNULL_BEGIN
  @return Current instance identifier.
  */
 + (NSString *)instanceId NS_SWIFT_NAME(instanceId());
+
+/**
+ @discussion Get a customizable logger for receiving messages from MyTrackerSDK.
+ 
+ @return Current custom logger.
+ */
++ (nullable id <MRLogger>)customLogger;
+
+/**
+ @discussion Set a customizable logger for receiving messages from MyTrackerSDK.
+ 
+ @param customLogger Sets the custom logger.
+ */
++ (void)setCustomLogger:(nullable id <MRLogger>)customLogger;
 
 /**
  @discussion Setup MyTracker with SDK_KEY.

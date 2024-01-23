@@ -18,6 +18,7 @@ import SystemConfiguration
 import UIKit
 import _Concurrency
 import _StringProcessing
+import os
 @_hasMissingDesignatedInitializers @objc(MRMyTimespentTracker) @objcMembers final public class TimespentTracker : ObjectiveC.NSObject {
   @objc public static let shared: MyTrackerSDK.TimespentTracker
   @objc final public func startTimespent(id: Swift.Int, canUseInBackground: Swift.Bool)
@@ -43,3 +44,20 @@ import _StringProcessing
   @objc override dynamic public init()
   @objc deinit
 }
+@objc(MRLogger) public protocol Logger {
+  @objc func logMessage(_ message: Swift.String, type: MyTrackerSDK.LogMessageType)
+}
+@objc(MRLogMessageType) public enum LogMessageType : Swift.Int {
+  case info
+  case warning
+  case error
+  case critical
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension MyTrackerSDK.LogMessageType : Swift.Equatable {}
+extension MyTrackerSDK.LogMessageType : Swift.Hashable {}
+extension MyTrackerSDK.LogMessageType : Swift.RawRepresentable {}
