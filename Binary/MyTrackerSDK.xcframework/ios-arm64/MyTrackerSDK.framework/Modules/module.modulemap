@@ -1,7 +1,7 @@
 framework module MyTrackerSDK {
   umbrella header "MyTrackerSDK.h"
-
   export *
+
   module * { export * }
 }
 

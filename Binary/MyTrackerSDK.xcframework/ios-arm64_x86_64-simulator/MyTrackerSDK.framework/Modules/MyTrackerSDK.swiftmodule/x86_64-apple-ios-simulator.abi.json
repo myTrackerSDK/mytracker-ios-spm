@@ -2616,7 +2616,9 @@
         "objc_name": "NSNotificationCenter",
         "declAttributes": [
           "ObjC",
+          "SynthesizedProtocol",
           "NonSendable",
+          "Sendable",
           "Dynamic"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2626,6 +2628,13 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -2763,7 +2772,9 @@
         "objc_name": "NSBundle",
         "declAttributes": [
           "ObjC",
+          "SynthesizedProtocol",
           "NonSendable",
+          "Sendable",
           "Dynamic"
         ],
         "superclassUsr": "c:objc(cs)NSObject",
@@ -2773,6 +2784,13 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -3123,6 +3141,16 @@
         "usr": "s:10Foundation8TimeZoneV",
         "mangledName": "$s10Foundation8TimeZoneV",
         "moduleName": "Foundation",
+        "intro_Macosx": "10.10",
+        "intro_iOS": "8.0",
+        "intro_tvOS": "9.0",
+        "intro_watchOS": "2.0",
+        "declAttributes": [
+          "Available",
+          "Available",
+          "Available",
+          "Available"
+        ],
         "isExternal": true,
         "conformances": [
           {
@@ -3138,28 +3166,6 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "ReferenceConvertible",
-            "printedName": "ReferenceConvertible",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "ReferenceType",
-                "printedName": "ReferenceType",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSTimeZone",
-                    "printedName": "Foundation.NSTimeZone",
-                    "usr": "c:objc(cs)NSTimeZone"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation20ReferenceConvertibleP",
-            "mangledName": "$s10Foundation20ReferenceConvertibleP"
           },
           {
             "kind": "Conformance",
@@ -3191,6 +3197,42 @@
           },
           {
             "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ReferenceConvertible",
+            "printedName": "ReferenceConvertible",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ReferenceType",
+                "printedName": "ReferenceType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSTimeZone",
+                    "printedName": "Foundation.NSTimeZone",
+                    "usr": "c:objc(cs)NSTimeZone"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation20ReferenceConvertibleP",
+            "mangledName": "$s10Foundation20ReferenceConvertibleP"
+          },
+          {
+            "kind": "Conformance",
             "name": "_ObjectiveCBridgeable",
             "printedName": "_ObjectiveCBridgeable",
             "children": [
@@ -3210,20 +3252,6 @@
             ],
             "usr": "s:s21_ObjectiveCBridgeableP",
             "mangledName": "$ss21_ObjectiveCBridgeableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
           }
         ]
       },
@@ -5769,14 +5797,14 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 10398,
+      "offset": 10424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 10508,
+      "offset": 10534,
       "length": 30,
       "value": "\"com.my.tracker.sdk.timespent\""
     },
