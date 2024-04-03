@@ -350,6 +350,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 
 
 
+
+
 SWIFT_CLASS_NAMED("TimespentTracker")
 @interface MRMyTimespentTracker : NSObject
 /// The shared timespent tracker.
@@ -382,6 +384,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MRMyTimespen
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
@@ -747,6 +750,8 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 
 
 
+
+
 SWIFT_CLASS_NAMED("TimespentTracker")
 @interface MRMyTimespentTracker : NSObject
 /// The shared timespent tracker.
@@ -779,6 +784,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MRMyTimespen
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 @end
+
 
 
 
