@@ -126,7 +126,7 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		kwz+wVObon2Z/uvW/HLPyLIEQsk=
+		5AFiyebz0YjsbUM1hjfulmOjEpw=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -142,11 +142,11 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Q7EgP3glpwDC22f1bf1Eygw/kNk=
+		lGBxVKgs2uS55WoidYcfZO2dK3g=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		kwz+wVObon2Z/uvW/HLPyLIEQsk=
+		5AFiyebz0YjsbUM1hjfulmOjEpw=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -162,11 +162,15 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		81iihq055q4i9lnvVCpBi0IM6LE=
+		ITpoKHzlRgrlHlOcoKq5QocT5oA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		cy5E+aSQZRyBYcW1Sj6OqnJiprY=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		aYWrsfRhSoQGmLUr75mho5eKnng=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -494,11 +498,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kwz+wVObon2Z/uvW/HLPyLIEQsk=
+			5AFiyebz0YjsbUM1hjfulmOjEpw=
 			</data>
 			<key>hash2</key>
 			<data>
-			fWoZ8f9zClJKIZNB0CzXfzhzGv7fp1u478Gnnk5Za6k=
+			opw4mf7cuMhR8Jw0TIFAuXx2D2ymfF8Se2UY6//U6yM=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -538,22 +542,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q7EgP3glpwDC22f1bf1Eygw/kNk=
+			lGBxVKgs2uS55WoidYcfZO2dK3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			gfTCSy2exgHTOU11ripjgjgYAH6dRaklDnoG+7cZkdM=
+			hUGJff+vbUpRfy0zHCSqZ9ZbU1BsT2T3khIFun6fPVU=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kwz+wVObon2Z/uvW/HLPyLIEQsk=
+			5AFiyebz0YjsbUM1hjfulmOjEpw=
 			</data>
 			<key>hash2</key>
 			<data>
-			fWoZ8f9zClJKIZNB0CzXfzhzGv7fp1u478Gnnk5Za6k=
+			opw4mf7cuMhR8Jw0TIFAuXx2D2ymfF8Se2UY6//U6yM=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -593,11 +597,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			81iihq055q4i9lnvVCpBi0IM6LE=
+			ITpoKHzlRgrlHlOcoKq5QocT5oA=
 			</data>
 			<key>hash2</key>
 			<data>
-			BVjdjjjh+afQuFPs+5z9H79vI4nwBBE5pGVdF3luip0=
+			RnlY6lJKcYQSmKH7h1TrK8XJz2UhESEg/6CTbY1r2+4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -609,6 +613,17 @@
 			<key>hash2</key>
 			<data>
 			wk5Jz+Hea8FcMx6FGCKoIaIDCTcgEEKGVfFSuS4fo4Q=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aYWrsfRhSoQGmLUr75mho5eKnng=
+			</data>
+			<key>hash2</key>
+			<data>
+			0ETSw3frBNvt0mWDPf7QBNVxR+19LoKA9p8Fdwy6Irg=
 			</data>
 		</dict>
 	</dict>
