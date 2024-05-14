@@ -9,13 +9,6 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-typedef NS_ENUM(NSUInteger, MRRegion)
-{
-	MRRegionNotSet,
-	MRRegionEu,
-	MRRegionRu
-};
-
 typedef NS_ENUM(NSUInteger, MRLocationTrackingMode)
 {
 	MRLocationTrackingModeNone,
@@ -78,18 +71,9 @@ typedef NS_ENUM(NSUInteger, MRLocationTrackingMode)
 @property(nonatomic) MRLocationTrackingMode locationTrackingMode NS_SWIFT_NAME(locationTrackingMode);
 
 /**
- @discussion URL of your proxy. Should be valid URL or will be replaced by default URL.
+ @discussion URL or host of your proxy. Only the host portion will be used. Should be valid value or will be replaced by default URL.
  */
 @property(nonatomic, copy, nullable) NSString *proxyHost NS_SWIFT_NAME(proxyHost);
-
-/**
- @discussion Current region. This property sets region of tracker server.
- Available values:
- MRRegionNotSet
- MRRegionEu
- MRRegionRu
- */
-@property(nonatomic) MRRegion region NS_SWIFT_NAME(region);
 
 @property(nonatomic) MRAntiFraudConfig *antiFraudConfig;
 

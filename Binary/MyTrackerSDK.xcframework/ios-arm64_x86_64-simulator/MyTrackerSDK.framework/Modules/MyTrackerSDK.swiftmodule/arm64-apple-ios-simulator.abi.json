@@ -16,6 +16,26 @@
       },
       {
         "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -76,6 +96,16 @@
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
         ]
       },
       {
@@ -3617,6 +3647,83 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "StringLiteral",
+      "offset": 396,
+      "length": 10,
+      "value": "\"MyTrackerSDK.URLBuilder\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2825,
+      "length": 9,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2844,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2857,
+      "length": 6,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2873,
+      "length": 6,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2825,
+      "length": 9,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2844,
+      "length": 3,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2857,
+      "length": 6,
+      "value": "3"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2873,
+      "length": 6,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "StringLiteral",
+      "offset": 3509,
+      "length": 29,
+      "value": "\"tracker-api.vk-analytics.ru\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Net\/URLBuilder.swift",
+      "kind": "StringLiteral",
+      "offset": 3567,
+      "length": 10,
+      "value": "\"https:\/\/\""
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/Models\/TimespentPackage\/TimespentPackageUserInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 304,
@@ -3849,43 +3956,8 @@
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 849,
-      "length": 45,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 859,
-      "length": 1,
-      "value": "\":\/\/\""
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 885,
-      "length": 1,
-      "value": "\".\""
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 893,
-      "length": 1,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
-      "kind": "StringLiteral",
-      "offset": 3735,
-      "length": 5,
-      "value": "\"ip4\""
-    },
-    {
-      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/Ipv4DataProvider\/Ipv4DataProvider.swift",
       "kind": "FloatLiteral",
-      "offset": 3789,
+      "offset": 3478,
       "length": 3,
       "value": "1.0"
     },
@@ -4249,7 +4321,7 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/TrackerParamsObserver.swift",
       "kind": "Array",
-      "offset": 739,
+      "offset": 744,
       "length": 2,
       "value": "[]"
     },
