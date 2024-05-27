@@ -61,7 +61,7 @@
 		</dict>
 	</array>
 	<key>NSPrivacyTracking</key>
-	<false/>
+	<true/>
 	<key>NSPrivacyTrackingDomains</key>
 	<array>
 		<string>consent.tracker-api.my.com</string>
