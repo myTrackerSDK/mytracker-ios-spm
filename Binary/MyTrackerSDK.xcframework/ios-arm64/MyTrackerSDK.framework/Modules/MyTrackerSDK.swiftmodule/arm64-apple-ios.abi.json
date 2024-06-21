@@ -509,6 +509,13 @@
       },
       {
         "kind": "Import",
+        "name": "Network",
+        "printedName": "Network",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK"
+      },
+      {
+        "kind": "Import",
         "name": "MyTrackerSDK_Internal",
         "printedName": "MyTrackerSDK_Internal",
         "declKind": "Import",
@@ -1470,6 +1477,16 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CoreData",
         "printedName": "CoreData",
         "declKind": "Import",
@@ -1992,13 +2009,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreData",
-        "printedName": "CoreData",
-        "declKind": "Import",
-        "moduleName": "MyTrackerSDK"
       },
       {
         "kind": "Import",
@@ -3809,101 +3819,136 @@
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "StringLiteral",
+      "offset": 608,
+      "length": 42,
+      "value": "\"com.my.tracker.sdk.network-data-provider\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3457,
+      "offset": 705,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 926,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3488,
+      "offset": 957,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3512,
+      "offset": 981,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3534,
+      "offset": 1003,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3457,
+      "offset": 926,
       "length": 1,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3488,
+      "offset": 957,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3512,
+      "offset": 981,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3534,
+      "offset": 1003,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3457,
+      "offset": 926,
       "length": 1,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3488,
+      "offset": 957,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3512,
+      "offset": 981,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "IntegerLiteral",
-      "offset": 3534,
+      "offset": 1003,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "StringLiteral",
-      "offset": 3598,
+      "offset": 4108,
       "length": 6,
       "value": "\"wifi\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
       "kind": "StringLiteral",
-      "offset": 3633,
+      "offset": 4143,
       "length": 25,
       "value": "\"CTRadioAccessTechnology\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "Array",
+      "offset": 4204,
+      "length": 30,
+      "value": "[\"tap\", \"tun\", \"ppp\", \"ipsec\"]"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4264,
+      "length": 3,
+      "value": "500"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Providers\/NetworkDataProvider.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4389,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Public\/Ads\/MRAdFormat.swift",
@@ -4202,42 +4247,42 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2224,
+      "offset": 2181,
       "length": 20,
       "value": "\"com.my.tracker.sdk\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2271,
+      "offset": 2228,
       "length": 16,
       "value": "\"MyTracker.momd\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2313,
+      "offset": 2270,
       "length": 15,
       "value": "\"MyTracker.mom\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2356,
+      "offset": 2313,
       "length": 19,
       "value": "\"VersionInfo.plist\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2404,
+      "offset": 2361,
       "length": 11,
       "value": "\"MyTracker\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
-      "offset": 2449,
+      "offset": 2406,
       "length": 4,
       "value": "\"db\""
     },
@@ -4951,1155 +4996,1169 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 40017,
+      "offset": 40672,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41162,
+      "offset": 41817,
       "length": 14,
       "value": "\"TimeSpentMsg\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41251,
+      "offset": 41906,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41271,
+      "offset": 41926,
       "length": 19,
       "value": "\"mytracker_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41297,
+      "offset": 41952,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41317,
+      "offset": 41972,
       "length": 8,
       "value": "\"app_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41332,
+      "offset": 41987,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41352,
+      "offset": 42007,
       "length": 16,
       "value": "\"timestamp_base\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41375,
+      "offset": 42030,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41395,
+      "offset": 42050,
       "length": 16,
       "value": "\"timestamp_send\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41418,
+      "offset": 42073,
       "length": 2,
       "value": "21"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41439,
+      "offset": 42094,
       "length": 10,
       "value": "\"app_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41456,
+      "offset": 42111,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41477,
+      "offset": 42132,
       "length": 11,
       "value": "\"user_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41495,
+      "offset": 42150,
       "length": 2,
       "value": "23"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41516,
+      "offset": 42171,
       "length": 13,
       "value": "\"device_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41536,
+      "offset": 42191,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41557,
+      "offset": 42212,
       "length": 14,
       "value": "\"network_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41578,
+      "offset": 42233,
       "length": 2,
       "value": "26"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41599,
+      "offset": 42254,
       "length": 15,
       "value": "\"location_info\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41621,
+      "offset": 42276,
       "length": 2,
       "value": "28"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41642,
+      "offset": 42297,
       "length": 14,
       "value": "\"wifi_current\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41663,
+      "offset": 42318,
       "length": 2,
       "value": "38"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41684,
+      "offset": 42339,
       "length": 20,
       "value": "\"count_based_events\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 41711,
+      "offset": 42366,
       "length": 2,
       "value": "39"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 41732,
+      "offset": 42387,
       "length": 19,
       "value": "\"time_based_events\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 42309,
+      "offset": 42964,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "Array",
-      "offset": 42370,
+      "offset": 43025,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48678,
+      "offset": 49786,
       "length": 18,
       "value": "\".CountBasedEvent\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 48771,
+      "offset": 49879,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48787,
+      "offset": 49895,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 48798,
+      "offset": 49906,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 48814,
+      "offset": 49922,
       "length": 7,
       "value": "\"value\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50609,
+      "offset": 51717,
       "length": 17,
       "value": "\".TimeBasedEvent\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50701,
+      "offset": 51809,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50717,
+      "offset": 51825,
       "length": 4,
       "value": "\"id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50728,
+      "offset": 51836,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50744,
+      "offset": 51852,
       "length": 17,
       "value": "\"valueForeground\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 50768,
+      "offset": 51876,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 50784,
+      "offset": 51892,
       "length": 17,
       "value": "\"valueBackground\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 52902,
+      "offset": 54010,
       "length": 10,
       "value": "\".AppInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 52987,
+      "offset": 54095,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 53007,
+      "offset": 54115,
       "length": 13,
       "value": "\"app_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 53027,
+      "offset": 54135,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 53047,
+      "offset": 54155,
       "length": 11,
       "value": "\"app_build\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 53065,
+      "offset": 54173,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 53085,
+      "offset": 54193,
       "length": 14,
       "value": "\"app_language\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 53106,
+      "offset": 54214,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 53126,
+      "offset": 54234,
       "length": 12,
       "value": "\"app_bundle\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 53145,
+      "offset": 54253,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 53166,
+      "offset": 54274,
       "length": 10,
       "value": "\"ios_data\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55789,
+      "offset": 56897,
       "length": 10,
       "value": "\".IosData\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 55874,
+      "offset": 56982,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55894,
+      "offset": 57002,
       "length": 15,
       "value": "\"ios_vendor_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 55916,
+      "offset": 57024,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 55936,
+      "offset": 57044,
       "length": 22,
       "value": "\"ios_vendor_id_cached\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57828,
+      "offset": 58936,
       "length": 11,
       "value": "\".UserInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57914,
+      "offset": 59022,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57930,
+      "offset": 59038,
       "length": 8,
       "value": "\"gender\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57945,
+      "offset": 59053,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57961,
+      "offset": 59069,
       "length": 5,
       "value": "\"age\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 57973,
+      "offset": 59081,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 57993,
+      "offset": 59101,
       "length": 7,
       "value": "\"ok_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58007,
+      "offset": 59115,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58027,
+      "offset": 59135,
       "length": 7,
       "value": "\"vk_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58041,
+      "offset": 59149,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58057,
+      "offset": 59165,
       "length": 7,
       "value": "\"email\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58071,
+      "offset": 59179,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58091,
+      "offset": 59199,
       "length": 8,
       "value": "\"icq_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58106,
+      "offset": 59214,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58126,
+      "offset": 59234,
       "length": 16,
       "value": "\"custom_user_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58149,
+      "offset": 59257,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58165,
+      "offset": 59273,
       "length": 7,
       "value": "\"phone\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 58179,
+      "offset": 59287,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 58199,
+      "offset": 59307,
       "length": 15,
       "value": "\"vk_connect_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61731,
+      "offset": 62839,
       "length": 13,
       "value": "\".DeviceInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61819,
+      "offset": 62927,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61835,
+      "offset": 62943,
       "length": 4,
       "value": "\"os\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61846,
+      "offset": 62954,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61866,
+      "offset": 62974,
       "length": 12,
       "value": "\"os_version\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61885,
+      "offset": 62993,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61905,
+      "offset": 63013,
       "length": 13,
       "value": "\"os_language\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61925,
+      "offset": 63033,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61941,
+      "offset": 63049,
       "length": 10,
       "value": "\"timezone\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61958,
+      "offset": 63066,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 61978,
+      "offset": 63086,
       "length": 13,
       "value": "\"instance_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 61998,
+      "offset": 63106,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62014,
+      "offset": 63122,
       "length": 10,
       "value": "\"codename\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62031,
+      "offset": 63139,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62047,
+      "offset": 63155,
       "length": 8,
       "value": "\"euname\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62062,
+      "offset": 63170,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62078,
+      "offset": 63186,
       "length": 13,
       "value": "\"manufacture\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62098,
+      "offset": 63206,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62114,
+      "offset": 63222,
       "length": 8,
       "value": "\"rooted\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62129,
+      "offset": 63237,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62150,
+      "offset": 63258,
       "length": 14,
       "value": "\"screen_width\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62171,
+      "offset": 63279,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62192,
+      "offset": 63300,
       "length": 15,
       "value": "\"screen_height\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62214,
+      "offset": 63322,
       "length": 2,
       "value": "12"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62231,
+      "offset": 63339,
       "length": 5,
       "value": "\"dpi\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62243,
+      "offset": 63351,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62260,
+      "offset": 63368,
       "length": 9,
       "value": "\"density\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62276,
+      "offset": 63384,
       "length": 2,
       "value": "17"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62297,
+      "offset": 63405,
       "length": 16,
       "value": "\"battery_status\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62320,
+      "offset": 63428,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62341,
+      "offset": 63449,
       "length": 15,
       "value": "\"battery_level\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62363,
+      "offset": 63471,
       "length": 2,
       "value": "19"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62384,
+      "offset": 63492,
       "length": 14,
       "value": "\"memory_total\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62405,
+      "offset": 63513,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62426,
+      "offset": 63534,
       "length": 18,
       "value": "\"memory_available\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62451,
+      "offset": 63559,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62472,
+      "offset": 63580,
       "length": 26,
       "value": "\"firebase_app_instance_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 62505,
+      "offset": 63613,
       "length": 2,
       "value": "32"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 62526,
+      "offset": 63634,
       "length": 10,
       "value": "\"ios_data\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71755,
+      "offset": 73316,
       "length": 10,
       "value": "\".IosData\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71840,
+      "offset": 73401,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71856,
+      "offset": 73417,
       "length": 6,
       "value": "\"idfa\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71869,
+      "offset": 73430,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71889,
+      "offset": 73450,
       "length": 23,
       "value": "\"idfa_tracking_enabled\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71919,
+      "offset": 73480,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71935,
+      "offset": 73496,
       "length": 5,
       "value": "\"sig\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71947,
+      "offset": 73508,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71963,
+      "offset": 73524,
       "length": 6,
       "value": "\"sig2\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 71976,
+      "offset": 73537,
       "length": 1,
       "value": "7"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 71996,
+      "offset": 73557,
       "length": 12,
       "value": "\"att_status\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 72015,
+      "offset": 73576,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 72031,
+      "offset": 73592,
       "length": 6,
       "value": "\"sig3\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 72044,
+      "offset": 73605,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 72060,
+      "offset": 73621,
       "length": 6,
       "value": "\"sig4\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75137,
+      "offset": 76698,
       "length": 14,
       "value": "\".NetworkInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75226,
+      "offset": 76787,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75242,
+      "offset": 76803,
       "length": 12,
       "value": "\"connection\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75261,
+      "offset": 76822,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75281,
+      "offset": 76842,
       "length": 17,
       "value": "\"connection_type\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75305,
+      "offset": 76866,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75325,
+      "offset": 76886,
       "length": 14,
       "value": "\"sim_location\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75346,
+      "offset": 76907,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75366,
+      "offset": 76927,
       "length": 13,
       "value": "\"operator_id\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75386,
+      "offset": 76947,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75406,
+      "offset": 76967,
       "length": 15,
       "value": "\"operator_name\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75428,
+      "offset": 76989,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75444,
+      "offset": 77005,
       "length": 6,
       "value": "\"ipv4\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75457,
+      "offset": 77018,
       "length": 1,
       "value": "9"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75473,
+      "offset": 77034,
       "length": 4,
       "value": "\"ip\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 75484,
+      "offset": 77045,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 75505,
+      "offset": 77066,
       "length": 17,
       "value": "\"x_forwarded_for\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
+      "kind": "IntegerLiteral",
+      "offset": 77090,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 78924,
+      "offset": 77111,
+      "length": 13,
+      "value": "\"vpn_enabled\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
+      "kind": "StringLiteral",
+      "offset": 80788,
       "length": 15,
       "value": "\".LocationInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 79014,
+      "offset": 80878,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 79030,
+      "offset": 80894,
       "length": 10,
       "value": "\"latitude\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 79047,
+      "offset": 80911,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 79063,
+      "offset": 80927,
       "length": 11,
       "value": "\"longitude\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 79081,
+      "offset": 80945,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 79097,
+      "offset": 80961,
       "length": 7,
       "value": "\"speed\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 79111,
+      "offset": 80975,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 79127,
+      "offset": 80991,
       "length": 10,
       "value": "\"accuracy\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 79144,
+      "offset": 81008,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 79160,
+      "offset": 81024,
       "length": 11,
       "value": "\"timestamp\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 81751,
+      "offset": 83615,
       "length": 11,
       "value": "\".WifiInfo\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 81837,
+      "offset": 83701,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 81853,
+      "offset": 83717,
       "length": 7,
       "value": "\"bssid\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 81867,
+      "offset": 83731,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 81883,
+      "offset": 83747,
       "length": 6,
       "value": "\"ssid\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 83633,
+      "offset": 85497,
       "length": 19,
       "value": "\"TimeSpentMsgBunch\""
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "IntegerLiteral",
-      "offset": 83727,
+      "offset": 85591,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftProtobuf\/Codegen\/Timespent.pb.swift",
       "kind": "StringLiteral",
-      "offset": 83743,
+      "offset": 85607,
       "length": 10,
       "value": "\"messages\""
     },
@@ -6325,7 +6384,7 @@
       "kind": "IntegerLiteral",
       "offset": 1521,
       "length": 1,
-      "value": "1"
+      "value": "2"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataDatabaseVersionChecker.swift",

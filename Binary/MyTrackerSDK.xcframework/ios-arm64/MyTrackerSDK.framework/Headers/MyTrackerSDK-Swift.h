@@ -304,7 +304,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-
 /// The various log message types that the logger provides.
 typedef SWIFT_ENUM_NAMED(NSInteger, MRLogMessageType, "LogMessageType", open) {
 /// The informative log message type.
@@ -344,6 +343,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _No
 + (NSString * _Nonnull)rewarded SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
+
 
 
 
