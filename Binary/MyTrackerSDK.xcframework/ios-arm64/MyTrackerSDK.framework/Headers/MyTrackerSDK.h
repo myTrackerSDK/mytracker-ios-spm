@@ -1,6 +1,6 @@
 //
-//  MyTrackerSDK 3.1.11.h
-//  MyTrackerSDK 3.1.11
+//  MyTrackerSDK 3.1.12.h
+//  MyTrackerSDK 3.1.12
 //
 //  Created by Andrey Seredkin on 26.06.17.
 //  Copyright © 2017 MailRu Group. All rights reserved.

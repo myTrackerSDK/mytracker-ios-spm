@@ -304,6 +304,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+
 /// The various log message types that the logger provides.
 typedef SWIFT_ENUM_NAMED(NSInteger, MRLogMessageType, "LogMessageType", open) {
 /// The informative log message type.

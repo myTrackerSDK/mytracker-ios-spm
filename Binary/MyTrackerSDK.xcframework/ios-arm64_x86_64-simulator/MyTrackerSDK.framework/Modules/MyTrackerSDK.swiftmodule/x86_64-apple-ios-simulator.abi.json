@@ -1688,6 +1688,26 @@
       },
       {
         "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1740,6 +1760,16 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
@@ -1998,6 +2028,26 @@
         "moduleName": "MyTrackerSDK",
         "declAttributes": [
           "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MyTrackerSDK_Internal",
+        "printedName": "MyTrackerSDK_Internal",
+        "declKind": "Import",
+        "moduleName": "MyTrackerSDK",
+        "declAttributes": [
+          "ImplementationOnly"
         ]
       },
       {
@@ -4350,6 +4400,41 @@
       "value": "\"appInstanceID\""
     },
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/RemoteConfigObserver.swift",
+      "kind": "Array",
+      "offset": 807,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/RemoteConfigObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 607,
+      "length": 27,
+      "value": "\"MyTrackerSDK.DefaultRemoteConfigObserver\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/RemoteConfigObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 2504,
+      "length": 49,
+      "value": "\"RSRemoteConfigRemoteConfigDidUpdateNotification\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/RemoteConfigObserver.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2585,
+      "length": 3,
+      "value": "255"
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/RemoteConfigObserver.swift",
+      "kind": "StringLiteral",
+      "offset": 2690,
+      "length": 43,
+      "value": "\"com.my.tracker.sdk.remote-config-observer\""
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Loggers\/ConsoleLogger.swift",
       "kind": "StringLiteral",
       "offset": 1256,
@@ -4765,14 +4850,14 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/ExternalEventHandler.swift",
       "kind": "Array",
-      "offset": 1284,
+      "offset": 1424,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/ExternalEventHandler.swift",
       "kind": "StringLiteral",
-      "offset": 6860,
+      "offset": 7696,
       "length": 53,
       "value": "\"com.my.tracker.sdk.timespent.external-event-handler\""
     },
@@ -6305,14 +6390,14 @@
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "IntegerLiteral",
-      "offset": 11433,
+      "offset": 11579,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Timespent\/TimespentTrackerCore.swift",
       "kind": "StringLiteral",
-      "offset": 11543,
+      "offset": 11689,
       "length": 30,
       "value": "\"com.my.tracker.sdk.timespent\""
     },
