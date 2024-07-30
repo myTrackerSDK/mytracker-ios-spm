@@ -4295,6 +4295,27 @@
       "value": "\"CFBundleShortVersionString\""
     },
     {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/Bundle+BundleInformation.swift",
+      "kind": "StringLiteral",
+      "offset": 832,
+      "length": 13,
+      "value": "\"NSExtension\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/Bundle+BundleInformation.swift",
+      "kind": "StringLiteral",
+      "offset": 887,
+      "length": 28,
+      "value": "\"NSExtensionPointIdentifier\""
+    },
+    {
+      "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/Utils\/Bundle+BundleInformation.swift",
+      "kind": "StringLiteral",
+      "offset": 953,
+      "length": 31,
+      "value": "\"com.apple.widgetkit-extension\""
+    },
+    {
       "filePath": "\/Users\/uranus\/.jenkins\/workspace\/mobads_MyTracker_iOS_Release_Builder\/MyTracker\/MyTrackerSDKApp\/MyTrackerSDK\/Private\/SwiftDatabase\/CoreData\/CoreDataFilePathProvider.swift",
       "kind": "StringLiteral",
       "offset": 2181,
