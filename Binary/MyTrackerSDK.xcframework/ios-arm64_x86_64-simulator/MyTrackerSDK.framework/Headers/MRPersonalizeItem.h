@@ -1,6 +1,6 @@
 //
 //  MRPersonalizeItem.h
-//  MyTrackerSDK 3.1.13
+//  MyTrackerSDK 3.2.0
 //
 //  Created by Andrey Seredkin on 25.10.2022.
 //  Copyright © 2022 VK. All rights reserved.
@@ -32,12 +32,12 @@ MR_FINAL
 /**
  @discussion Item price with discount.
 */
-@property(nonatomic, readonly) int discountPrice;
+@property(nonatomic, readonly) double discountPrice;
 
 /**
  @discussion Item value.
 */
-@property(nonatomic, readonly) double value;
+@property(nonatomic, readonly) int value;
 
 /**
  @discussion Item value with discount.
@@ -63,8 +63,8 @@ MR_FINAL
 - (instancetype)initWithSku:(nonnull NSString *)sku
 					payload:(nonnull NSString *)payload
 					  price:(double)price
-			  discountPrice:(int)discountPrice
-					  value:(double)value
+			  discountPrice:(double)discountPrice
+					  value:(int)value
 			  discountValue:(int)discountValue NS_SWIFT_NAME(init(sku:payload:price:discountPrice:value:discountValue:));
 
 @end

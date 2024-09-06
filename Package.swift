@@ -24,7 +24,6 @@ let package = Package(
 					.linkedFramework("UIKit"),
 					.linkedFramework("SystemConfiguration"),
 					.linkedFramework("CoreData"),
-					.linkedFramework("iAd"),
 					.linkedFramework("CoreTelephony"),
 					.linkedFramework("StoreKit"),
 					.linkedFramework("CoreMotion")
