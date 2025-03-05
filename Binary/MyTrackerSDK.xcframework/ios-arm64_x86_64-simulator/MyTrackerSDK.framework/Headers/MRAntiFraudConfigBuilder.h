@@ -1,6 +1,6 @@
 //
 //  MTRGAntiFraudConfigBuilder
-//  MyTrackerSDK 3.2.1
+//  MyTrackerSDK 3.3.0
 //
 //  Created by Alexander Zakatnov on 26.01.2022.
 //  Copyright © 2022 Mail.Ru Group. All rights reserved.
