@@ -1,6 +1,6 @@
 //
 //  MRMiniAppEventMainBuilder.h
-//  MyTrackerSDK 3.3.0
+//  MyTrackerSDK 3.4.0
 //
 //  Created by Alexander Zakatnov on 05.11.2020.
 //  Copyright © 2020 Mail.Ru Group. All rights reserved.

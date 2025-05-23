@@ -1,6 +1,6 @@
 //
 //  MRPersonalizeAPI.h
-//  MyTrackerSDK 3.3.0
+//  MyTrackerSDK 3.4.0
 //
 //  Created by Andrey Seredkin on 17.11.2022.
 //  Copyright © 2022 VK. All rights reserved.
