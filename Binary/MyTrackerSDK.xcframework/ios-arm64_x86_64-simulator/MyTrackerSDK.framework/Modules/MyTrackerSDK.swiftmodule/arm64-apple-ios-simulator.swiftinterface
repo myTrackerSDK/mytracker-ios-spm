@@ -13,6 +13,7 @@ import CryptoKit
 import Foundation
 @_exported import MyTrackerSDK
 import Network
+import NetworkExtension
 import StoreKit
 import Swift
 import SystemConfiguration

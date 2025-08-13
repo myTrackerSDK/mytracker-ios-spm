@@ -114,11 +114,11 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.abi.json</key>
 		<data>
-		bu9XG6Yluze+WXKAB1sUpG+8dLQ=
+		fhucOQ6w8h2b/6+6qfTX0i6p0aM=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		sG00yn4V49Fv7Zgm5XwIb3pGhVs=
+		7XcbQxPt5pt9gwXsY5GoZ3ICyRo=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -126,19 +126,19 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		sG00yn4V49Fv7Zgm5XwIb3pGhVs=
+		7XcbQxPt5pt9gwXsY5GoZ3ICyRo=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		y9pI2h9jh6ZmMNrOb1FXhnA2YjI=
+		EETHaLL3bAyN1tM4lEGbTTrNH4A=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<data>
-		bu9XG6Yluze+WXKAB1sUpG+8dLQ=
+		fhucOQ6w8h2b/6+6qfTX0i6p0aM=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<data>
-		10jDNVKwy2F64e3JoPd9EG4tyQU=
+		vwBMa1CfQZVztilyc81/jGOGUVU=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
@@ -146,11 +146,11 @@
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		10jDNVKwy2F64e3JoPd9EG4tyQU=
+		vwBMa1CfQZVztilyc81/jGOGUVU=
 		</data>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		hDlwhY8ULSIgI/v8C+xY+bzvNoY=
+		LHDr2cxu0WjSkoHteg++tjBJ0Po=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -453,22 +453,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bu9XG6Yluze+WXKAB1sUpG+8dLQ=
+			fhucOQ6w8h2b/6+6qfTX0i6p0aM=
 			</data>
 			<key>hash2</key>
 			<data>
-			5bIwjzYqAu8gz83o2lOvB9PNbtoCG/rng6WlC7c2tvM=
+			Csbu9v5TC+POJur+MQmRWlNhIO4T0hyNV5mojKsbhso=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sG00yn4V49Fv7Zgm5XwIb3pGhVs=
+			7XcbQxPt5pt9gwXsY5GoZ3ICyRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			i8jOmEXJOZ2UKxl4X8OBN0VusSNgxt0cF675rAOT+pA=
+			/45mLrNr/WMLKKqSLngmUDtgUV9q9odwhNfoy0irSbs=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
@@ -486,44 +486,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sG00yn4V49Fv7Zgm5XwIb3pGhVs=
+			7XcbQxPt5pt9gwXsY5GoZ3ICyRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			i8jOmEXJOZ2UKxl4X8OBN0VusSNgxt0cF675rAOT+pA=
+			/45mLrNr/WMLKKqSLngmUDtgUV9q9odwhNfoy0irSbs=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			y9pI2h9jh6ZmMNrOb1FXhnA2YjI=
+			EETHaLL3bAyN1tM4lEGbTTrNH4A=
 			</data>
 			<key>hash2</key>
 			<data>
-			LbrvScaKbYLEBo7X/UFELH0qzbaAF49IHJhsAD1Xdxg=
+			DscQgWEvXNRetFuCE4YjrPLDKPuH9vB8RAGrKZa60U8=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			bu9XG6Yluze+WXKAB1sUpG+8dLQ=
+			fhucOQ6w8h2b/6+6qfTX0i6p0aM=
 			</data>
 			<key>hash2</key>
 			<data>
-			5bIwjzYqAu8gz83o2lOvB9PNbtoCG/rng6WlC7c2tvM=
+			Csbu9v5TC+POJur+MQmRWlNhIO4T0hyNV5mojKsbhso=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			10jDNVKwy2F64e3JoPd9EG4tyQU=
+			vwBMa1CfQZVztilyc81/jGOGUVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			RncIoYgsT5/NWNumZWEWcotQM4gSmpUYlqpN06kVRZI=
+			7bqxT9JtlSpes8YLTkxJjVRVRweQf+dTk0+FQP0P4x0=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
@@ -541,22 +541,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			10jDNVKwy2F64e3JoPd9EG4tyQU=
+			vwBMa1CfQZVztilyc81/jGOGUVU=
 			</data>
 			<key>hash2</key>
 			<data>
-			RncIoYgsT5/NWNumZWEWcotQM4gSmpUYlqpN06kVRZI=
+			7bqxT9JtlSpes8YLTkxJjVRVRweQf+dTk0+FQP0P4x0=
 			</data>
 		</dict>
 		<key>Modules/MyTrackerSDK.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hDlwhY8ULSIgI/v8C+xY+bzvNoY=
+			LHDr2cxu0WjSkoHteg++tjBJ0Po=
 			</data>
 			<key>hash2</key>
 			<data>
-			T0HqvOY+PZK7PyalyRcXLkA6He+39ERsHWJ0/13+AjE=
+			ygMrzfmIGr0XdB7guYfNsv+DuZRgSllZB41HvD3+ZYw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
