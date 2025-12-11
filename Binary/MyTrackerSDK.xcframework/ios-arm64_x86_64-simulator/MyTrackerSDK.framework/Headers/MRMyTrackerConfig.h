@@ -77,11 +77,6 @@ typedef NS_ENUM(NSUInteger, MRLocationTrackingMode)
 
 @property(nonatomic) MRAntiFraudConfig *antiFraudConfig;
 
-/**
- @discussion The mode that limits the collection of advertising identifiers and location to comply with Apple's guidelines.
- */
-@property(nonatomic, getter=isKidMode) BOOL kidMode NS_SWIFT_NAME(isKidMode);
-
 - (instancetype)init NS_UNAVAILABLE;
 
 @end
